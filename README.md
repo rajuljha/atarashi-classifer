@@ -45,6 +45,9 @@ atarashi_classifier/
 
 ## Setup Instructions
 
+> [!IMPORTANT]
+Due to massive size of the dataset (~7GBs, cloning the repo might take some time)
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/rajuljha/atarashi_classifier.git
