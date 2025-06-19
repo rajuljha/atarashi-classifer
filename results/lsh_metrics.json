@@ -1,0 +1,1 @@
+{"shingle_type": "char", "shingle_size": 5, "num_perm": 64, "lsh_threshold": 0.3, "top_k": 5, "build_time": 20.23, "query_time": 0.0, "num_matches": 1, "top_score": 0.0781}

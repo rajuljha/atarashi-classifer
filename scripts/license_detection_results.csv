@@ -1,0 +1,675 @@
+query_index,text_preview,true_label,matched_files,correct,license_folder
+0,"INTERBASE PUBLIC LICENSE Version 1.0 1 Definitions. 1.0.1 ""Commercial Use"" means distribution or oth...",1,[],False,Interbase
+1,3DFX GLIDE Source Code General Public License 1 PREAMBLE This license is for software that provides ...,1,"['CC-BY-3.0/CC-BY-3.0-371.txt', 'SCEA/SCEA-41_Split_SPDX_Licenses.txt', 'SCEA/SCEA-114.txt', 'SCEA/SCEA-119.txt']",True,Glide
+2,"As a special exception, if you create a document which uses this font, and embed this font or unalte...",1,['gnu-javamail-exception/gnu-javamail-exception-3_Split_SPDX_Licenses.txt'],True,Font-exception-2.0
+3,"Lucent disclaims all warranties with regard to this software, including all implied warranties of me...",1,[],False,StandardML-NJ
+4,\xe3\x82\xa2\xe3\x83\x88\xe3\x83\xaa\xe3\x83\x93\xe3\x83\xa5\xe3\x83\xbc\xe3\x82\xb7\xe3\x83\xa7\xe3...,1,[],False,CC-BY-SA-2.1-JP
+5,"Redistributions of source code must retain the above copyright notice, this\r\n  list of conditions ...",1,"['BSD-3-Clause-Clear/BSD-3-Clause-Clear-8.txt', 'ZPL-2.1/ZPL-2.1-26.txt', 'ZPL-2.1/ZPL-21-33.txt', 'info-zip/info-zip-28.txt', 'info-zip/info-zip-28_Split_DB_Foss_Licenses.txt']",True,EDL-1.0
+6,"Academic Free License (""AFL"") v 3.0 This Academic Free License (the ""License"") applies to any origin...",1,"['Ferris-1.2/Ferris-1.2-412.txt', 'GFDL-1.3/GFDL-1.3-489.txt', 'Ferris-1.2/Ferris-1.2-403.txt']",True,AFL-3.0
+7,"The OpenLDAP Public License Version 2.6, 14 June 2001 Redistribution and use of this software and as...",1,"['OLDAP-2.6/OLDAP-2.6-27.txt', 'OLDAP-2.6/OLDAP-2.6-3_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-25.txt', 'OLDAP-2.6/OLDAP-2.6-24.txt', 'OLDAP-2.6/OLDAP-2.6-26.txt']",True,OLDAP-2.6
+8,"GNU Free Documentation License Version 1.3, 3 November 2008 Copyright (C) 2000, 2001, 2002, 2007, 20...",1,"['GFDL-1.3/GFDL-1.3-265.txt', 'GFDL-1.3/GFDL-1.3-363_Split_SPDX_Licenses.txt', 'GFDL-1.3/GFDL-1.3-188_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-276.txt', 'GFDL-1.3/GFDL-1.3-276_Split_SPDX_Licenses.txt']",True,GFDL-1.3-no-invariants-or-later
+9,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,Piriform
+10,"David Megginson, Megginson Technologies Ltd....",1,[],False,SAX-PD
+11,Nutrition and exercise are crucial for a healthy life....,0,[],True,
+12,"Yahoo! Public License, Version 1.1 (YPL) This Yahoo! Public License (this ""Agreement"") is a legal ag...",1,"['YPL-1.1/YPL-1.1-108.txt', 'YPL-1.1/YPL-1.1-92.txt', 'YPL-1.1/YPL-1.1-26_Split_SPDX_Licenses.txt', 'YPL-1.1/YPL-1.1-1.txt', 'YPL-1.1/YPL-1.1-55.txt']",True,YPL-1.1
+13,"As a special exception, you may use this file as part of a free software library without restriction...",1,[],False,mif-exception
+14,"The Net Boolean Public License Version 1, 22 August 1998 Copyright 1998, Net Boolean Incorporated, R...",1,['AAL/AAL-17.txt'],True,NBPL-1.0
+15,Article 6 - INTELLECTUAL PROPERTY...,1,[],False,CECILL-C
+16,"according to the Open Public License, add some modifications...",1,[],False,OPL-style
+17,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,Eurosym
+18,"CUA Office Public License Version 1.0 1 Definitions. 1.0.1 ""Commercial Use"" means distribution or ot...",1,[],False,CUA-OPL-1.0
+19,An unclassified license reference looks like a license (it contains common license terminology) but ...,1,['Ferris-1.2/Ferris-1.2-419.txt'],True,UnclassifiedLicense
+20,"AFFERO GENERAL PUBLIC LICENSE Version 1, March 2002 Copyright \xc2\xa9 2002 Affero Inc 510 Third Str...",1,"['GFDL-1.3/GFDL-1.3-369_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-369.txt', 'GFDL-1.3/GFDL-1.3-386.txt']",True,AGPL-1.0-or-later
+21,"Redistribution and use in source and binary forms, with or without modification, are permitted provi...",1,"['ZPL-2.0/ZPL-20-32.txt', 'ZPL-2.0/ZPL-2.0-38.txt', 'ZPL-2.1/ZPL-2.1-25.txt', 'ZPL-2.1/ZPL-21-32.txt', 'Intel/Intel-22.txt']",True,xpp
+22,"EXCEPTION NOTICE 1 As a special exception, the copyright holders of this library give permission for...",1,[],False,WxWindows-exception-3.1
+23,The LaTeX Project Public License =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- LPPL Version 1.3 2003-12-01 Copyri...,1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,LPPL-1.3
+24,"Mozilla Public License Version 1.1 1 Definitions. 1.0.1 ""Commercial Use"" means distribution or other...",1,[],False,MPL-1.1
+25,"# Solderpad Hardware Licence Version 2.0 This licence (the ""Licence"") operates as a wraparound licen...",1,[],False,SHL-2.0
+26,"FreeImage Public License - Version 1.0 1 Definitions. 1.1 ""Contributor"" means each entity that creat...",1,[],False,FreeImage
+27,Academic Free License Version 1.1 The Academic Free License applies to any original work of authorsh...,1,['NCGL-UK-2.0/NCGL-UK-20-13.txt'],True,AFL-1.1
+28,(A) Reciprocal Grants- For any file you distribute that contains code from the software (in source c...,1,['NCGL-UK-2.0/NCGL-UK-2.0-37.txt'],True,MS-RL
+29,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,EUPL-1.2
+30,"The OpenLDAP Public License Version 1.4, 18 January 1999 Copyright 1998-1999, The OpenLDAP Foundatio...",1,['CC-BY-3.0/CC-BY-3.0-386.txt'],True,OLDAP-1.4
+31,Creative Commons Attribution-NoDerivs 1.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NO...,1,"['CC-BY-3.0/CC-BY-3.0-245.txt', 'CC-BY-3.0/CC-BY-3.0-157_Split_SPDX_Licenses.txt']",True,CC-BY-ND-1.0
+32,"UNICODE, INC LICENSE AGREEMENT - DATA FILES AND SOFTWARE Unicode Data Files include all data files u...",1,[],False,Unicode-DFS-2016
+33,Licence Libre du Qu\xc3\xa9bec \xe2\x80\x93 R\xc3\xa9ciprocit\xc3\xa9 forte (LiLiQ-R+) Version 1.1 1...,1,[],False,LiLiQ-Rplus-1.1
+34,"THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NO...",1,"['MITNFA/MITNFA-6.txt', 'Imlib2/Imlib2-20.txt', 'MITNFA/MITNFA-6_Split_SPDX_Licenses.txt', 'ZPL-2.1/ZPL-2.1-32.txt', 'Intel/Intel-26.txt']",True,curl
+35,Permission is granted to copy and distribute modified versions of this manual under the conditions f...,1,[],False,Latex2e
+36,Conditions of Use This software was developed by employees of the National Institute of Standards an...,1,[],False,NIST-PD-fallback
+37,"NASA OPEN SOURCE AGREEMENT VERSION 1.3 THIS OPEN SOURCE AGREEMENT (""AGREEMENT"") DEFINES THE RIGHTS O...",1,[],False,NASA-1.3
+38,"GNU GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1989, 1991 Free Software Foundation, I...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,GPL-2.0-only
+39,"Sun Microsystems, Inc Binary Code License Agreement for the JAVA SE DEVELOPMENT KIT (JDK), VERSION 6...",1,[],False,SunJDK6
+40,NETHACK GENERAL PUBLIC LICENSE (Copyright 1989 M Stephenson) (Based on the BISON general public lice...,1,[],False,NGPL
+41,Red Hat Enterprise Agreement PLEASE READ THIS AGREEMENT CAREFULLY BEFORE PURCHASING AND/OR USING SOF...,1,[],False,RedHat
+42,"SUN PUBLIC LICENSE Version 1.0 1 Definitions. 1.0.1 ""Commercial Use"" means distribution or otherwise...",1,[],False,SPL-1.0
+43,The LaTeX Project Public License =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- LPPL Version 1.3c 2008-05-04 Copyr...,1,[],False,LPPL-1.3c
+44,"GNU LESSER GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundatio...",1,[],False,LGPL-3.0+
+45,Linking this library statically or dynamically with other modules is making a combined work based on...,1,[],False,Classpath-exception-2.0
+46,"According to MIT license, add some modifications...",1,[],False,MIT-style
+47,13.1 Export Law Assurances. You may not use or otherwise export or re-export the Original Code excep...,1,[],False,APSL-1.0
+48,"Redistributions in compiled form (transformed to other DTDs, converted to PDF, PostScript, RTF and o...",1,[],False,BSD-Doc
+49,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR US...",1,[],False,Apache-2.0
+50,"This library (libselinux) is public domain software, i.e not copyrighted. Warranty Exclusion -------...",1,[],False,libselinux-1.0
+51,PS Utilities Package The constituent files of this package listed below are copyright (C) 1991-1995 ...,1,[],False,psutils
+52,Trusster Open Source License version 1.0a (TRUST) copyright (c) 2006 Mike Mintz and Robert Ekendahl ...,1,[],False,TOSL
+53,"STORAGE NETWORKING INDUSTRY ASSOCIATION PUBLIC LICENSE Version 1.1 1 Definitions. 1.1 ""Commercial Us...",1,[],False,SNIA
+54,"As a special exception, if you link this library with other files to produce an executable, this lib...",1,"['gnu-javamail-exception/gnu-javamail-exception-2.txt', 'gnu-javamail-exception/gnu-javamail-exception-1_Split_SPDX_Licenses.txt', 'gnu-javamail-exception/gnu-javamail-exception-3.txt', 'gnu-javamail-exception/gnu-javamail-exception-2_Split_SPDX_Licenses.txt', 'gnu-javamail-exception/gnu-javamail-exception-1.txt']",True,gnu-javamail-exception
+55,"Vovida Software License v 1.0 This license applies to all software incorporated in the ""Vovida Open ...",1,[],False,VSL-1.0
+56,Common Public License Version 0.5 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS COMMO...,1,"['CPL-0.5/CPL-0.5-52.txt', 'CPL-0.5/CPL-0.5-151.txt', 'CPL-0.5/CPL-0.5-84.txt', 'CPL-0.5/CPL-0.5-156.txt', 'CPL-0.5/CPL-0.5-11.txt']",True,CPL-0.5
+57,6.2. Effect of New Versions...,1,[],False,Terracotta
+58,PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2 1 This LICENSE AGREEMENT is between the Python Software...,1,[],False,PSF-2.0
+59,## ODC Attribution License (ODC-By) ### Preamble The Open Data Commons Attribution License is a lice...,1,[],False,ODC-By-1.0
+60,"OSET Public License (c) 2015 ALL RIGHTS RESERVED VERSION 2.1 THIS LICENSE DEFINES THE RIGHTS OF USE,...",1,[],False,OSET-PL-2.1
+61,"GNU LIBRARY GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1991 Free Software Foundation,...",1,[],False,LGPL-2.0+
+62,Permission is granted to make and distribute verbatim copies of this document provided that the copy...,1,[],False,Abstyles
+63,"Even though U-Boot in general is covered by the GPL-2.0/GPL-2.0+, this does *not* cover the so-calle...",1,[],False,u-boot-exception-2.0
+64,Adobe Systems Incorporated(r) Source Code License Agreement Copyright(c) 2006 Adobe Systems Incorpor...,1,[],False,Adobe-2006
+65,Additional permission under GNU GPL version 3 section 7...,1,[],False,GPL-3.0-linking-source-exception
+66,"insert GPL v2+ text here Bison Exception As a special exception, you may create a larger work that c...",1,"['GPL-3.0-with-bison-exception/GPL-3.0-with-bison-exception-4.txt', 'GPL-3.0-with-bison-exception/GPL-3.0-with-bison-exception-2.txt']",True,GPL-2.0+-with-bison-exception
+67,"Copyright (c) 2006, 2007 Advanced Micro Devices, Inc. All rights reserved. Redistribution and use in...",1,[],False,AMDPLPA
+68,She traveled to Europe last summer with her family....,0,[],True,
+69,"The Open Software Licensev 2.1 This Open Software License (the ""License"") applies to any original wo...",1,"['OSL-2.1/OSL-2.1-123_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-85_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-79_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-152_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-178.txt']",True,OSL-2.1
+70,Python 2.6.5 license This is the official license for the Python 2.6.5 release: A HISTORY OF THE SOF...,1,[],False,Python-2.6.5
+71,SIL OPEN FONT LICENSE Version 1.0 - 22 November 2005 PREAMBLE The goals of the Open Font License (OF...,1,"['ZPL-2.0/ZPL-2.0-24_Split_SPDX_Licenses.txt', 'SCEA/SCEA-130.txt']",True,OFL-1.0-no-RFN
+72,"THE FRAMEWORX OPEN LICENSE 1.0 This License Agreement, The Frameworx Open License 1.0, has been ente...",1,[],False,Frameworx-1.0
+73,"Use of NVIDIA's products requires three elements: the SOFTWARE, the hardware on a graphics controlle...",1,[],False,Nvidia-EULA
+74,insert GPL v2 license text here Class Path Exception Linking this library statically or dynamically ...,1,[],False,GPL-2.0-with-classpath-exception
+75,NewCreature Design makes no guarantees regarding the Crystal Stacker software. We are not responsibl...,1,['CrystalStacker/CrystalStacker-18.txt'],True,CrystalStacker
+76,Important Recommendations...,1,[],False,LPPL-1.1
+77,REALNETWORKS COMMUNITY SOURCE LICENSE RESEARCH AND DEVELOPMENT USE (RCSL R&D) Version 3.0 (Rev Date:...,1,"['GFDL-1.3/GFDL-1.3-453.txt', 'GFDL-1.2/GFDL-1.2-423.txt']",True,RCSL
+78,"\xe2\x88\x92 use the Work in any circumstance and for all usage,...",1,[],False,EUPL-1.0
+79,LaTeX Project Public License LPPL Version 1.0 1999-03-01 Copyright 1999 LaTeX3 Project Everyone is p...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,LPPL-1.0
+80,"Logica Open Source License Version 1.0 Copyright (c) 1996-2001 Logica Mobile Networks Limited, all r...",1,[],False,Logica-OSL-1.0
+81,"Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc....",1,['GFDL-1.2/GFDL-1.2-460.txt'],True,FSFUL
+82,MAJORDOMO LICENSE AGREEMENT Version 1.1 18 May 96 Great Circle Associates (GCA) is the original deve...,1,[],False,Majordomo-1.1
+83,7. This License Agreement shall be governed by the federal\r\nintellectual property law of the Unite...,1,[],False,Python-2.0.1
+84,"GCC RUNTIME LIBRARY EXCEPTION Version 3.1, 31 March 2009 General information: http://www.gnu.org/lic...",1,[],False,GCC-exception-3.1
+85,COMTROL CORPORATION ON THE WORLD WIDE WEB IS PROVIDED SUBJECT TO THE FOLLOWING TERMS AND CONDITIONS:...,1,[],False,Comtrol
+86,Multi-licensing is the practice of distributing software under two or more different sets of terms a...,1,[],False,Dual-license
+87,ANTLR 2 License We reserve no legal rights to the ANTLR--it is fully in the public domain An individ...,1,[],False,ANTLR-PD-fallback
+88,ORIGINAL LICENSE: This software is (c) Copyright 1992 by Panagiotis Tsirigotis The author (Panagioti...,1,['gnu-javamail-exception/gnu-javamail-exception-3_Split_SPDX_Licenses.txt'],True,xinetd
+89,[SOFTWARE NAME] Copyright (YEAR) (COPYRIGHT HOLDER(S)/AUTHOR(S))(\xe2\x80\x9cLicensor\xe2\x80\x9d) H...,1,[],False,Hippocratic-2.1
+90,Jutta Degener...,1,[],False,TU-Berlin-1.0
+91,"Nokia Open Source License (NOKOS License) Version 1.0a 1 DEFINITIONS. ""Affiliates"" of a party shall ...",1,[],False,Nokia
+92,University of Illinois/NCSA Open Source License Copyright (c) <Year> <Owner Organization Name> All r...,1,[],False,NCSA
+93,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,GFDL-1.1-only
+94,"XFree86 License (version 1.1) Copyright (C) 1994-2006 The XFree86 Project, Inc. All rights reserved....",1,[],False,XFree86-1.1
+95,"MOZILLA PUBLIC LICENSE Version 1.0 1 Definitions. 1.1 ""Contributor"" means each entity that creates o...",1,[],False,MPL-1.0
+96,Zope Public License (ZPL) Version 1.1 Copyright (c) Zope Corporation All rights reserved. This licen...,1,"['ZPL-2.0/ZPL-2.0-27.txt', 'ZPL-2.1/ZPL-2.1-4.txt', 'ZPL-2.1/ZPL-2.1-20_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-5_Split_SPDX_Licenses.txt', 'ZPL-2.1/ZPL-2.1-10.txt']",True,ZPL-1.1
+97,"GNU LESSER GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundatio...",1,[],False,LGPL-3.0-only
+98,Noweb is copyright 1989-2000 by Norman Ramsey All rights reserved. Noweb is protected by copyright I...,1,[],False,Noweb
+99,"The OpenLDAP Public License Version 2.3, 28 July 2000 Redistribution and use of this software and as...",1,"['OLDAP-2.6/OLDAP-2.6-6.txt', 'OLDAP-2.6/OLDAP-2.6-27_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-1_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-22.txt', 'OLDAP-2.6/OLDAP-2.6-5_Split_SPDX_Licenses.txt']",True,OLDAP-2.3
+100,one example below:\r\n/* \r\n * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;\r\n * s...,1,['SCEA/SCEA-147.txt'],True,See-file
+101,"GNU Free Documentation License Version 1.2, November 2002 Copyright (C) 2000,2001,2002 Free Software...",1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-365.txt', 'GFDL-1.2/GFDL-1.2-170.txt', 'GFDL-1.2/GFDL-1.2-141_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-11_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-57_Split_SPDX_Licenses.txt']",True,GFDL-1.2-or-later
+102,Creative Commons Attribution-NonCommercial 2.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DO...,1,[],False,CC-BY-NC-2.0
+103,"License\r\nBy obtaining and/or copying this work, you (the licensee) agree that you have read, under...",1,['W3C/W3C-19.txt'],True,W3C-20150513
+104,CC-BY is referenced without a version number. Please look up CC-BY in the License Admin to view the ...,1,[],False,CC-BY
+105,"---- Part 1: CMU/UCD copyright notice: (BSD like) ----- Copyright 1989, 1991, 1992 by Carnegie Mello...",1,[],False,Net-SNMP
+106,"ZONEALARM, A CHECK POINT SOFTWARE TECHNOLOGIES, INC COMPANY END USER LICENSE AGREEMENT THIS END USER...",1,"['ZoneAlarm-EULA/ZoneAlarm-EULA-368.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-72.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-435.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-342.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-481.txt']",True,ZoneAlarm-EULA
+107,The FreeBSD Copyright Copyright 1992-2012 The FreeBSD Project All rights reserved. Redistribution an...,1,['BSD-3-Clause-Clear/BSD-3-Clause-Clear-11.txt'],True,BSD-2-Clause-FreeBSD
+108,DISCLAIMER Regarding the header / include files: License to copy and use this software is granted pr...,1,[],False,RSA-Cryptoki
+109,Lesser General Public License For Linguistic Resources Preamble The licenses for most data are desig...,1,[],False,LGPLLR
+110,Creative Commons Attribution - Share-Alike 2.0 England and Wales CREATIVE COMMONS CORPORATION IS NOT...,1,"['CC-BY-3.0/CC-BY-3.0-67_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215.txt']",True,CC-BY-SA-2.0-UK
+111,Electric vehicles are becoming more common in urban areas....,0,[],True,
+112,(iii) accessors; and...,1,[],False,Nokia-Qt-exception-1.1
+113,"Netscape Public LIcense version 1.1 AMENDMENTS The Netscape Public License Version 1.1 (""NPL"") consi...",1,[],False,NPL-1.1
+114,"Code derived from the document ""Report on the Programming Language...",1,[],False,HaskellReport
+115,Ascender Corporation End User License Agreement Note: Click here for more information on various fon...,1,[],False,Ascender-EULA
+116,SUGARCRM PUBLIC LICENSE Applies to Sugar Open Source Edition v1 through v4 Please note that these re...,1,"['YPL-1.1/YPL-1.1-140.txt', 'YPL-1.0/YPL-1.0-140.txt']",True,SugarCRM-1.1.3
+117,"Copyright \xc2\xa9 2014 Tapjoy, Inc All Rights Reserved TAPJOY SDK DOWNLOAD LICENSE AGREEMENT BY USI...",1,[],False,Tapjoy
+118,"Copyright (c) 2011, Deusty, LLC All rights reserved. Redistribution and use of this software in sour...",1,[],False,BSD-Source-Code
+119,"# The Parity Public License 7.0.0 Contributor: Artless Devices, LLC [US-CA] Source Code: https://git...",1,"['Parity-7.0.0/Parity-7.0.0-3_Split_SPDX_Licenses.txt', 'Parity-7.0.0/Parity-7.0.0-36_Split_SPDX_Licenses.txt', 'Parity-7.0.0/Parity-7.0.0-22_Split_SPDX_Licenses.txt', 'Parity-7.0.0/Parity-7.0.0-10_Split_SPDX_Licenses.txt', 'Parity-7.0.0/Parity-7.0.0-32_Split_SPDX_Licenses.txt']",True,Parity-7.0.0
+120,Section 3. Distribution Licensing Terms...,1,[],False,OCLC-2.0
+121,"SOFTWARE LICENSE AGREEMENT The MOTOROLA MOBILE Software License Agreement (""Software License Agreeme...",1,[],False,Motorola
+122,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Found...",1,[],False,AGPL-3.0-only
+123,Helix DNA Technology Binary Research Use License REDISTRIBUTION NOT PERMITTED This Helix DNA Technol...,1,[],False,Helix.RealNetworks-EULA
+124,"As a special exception, you may create a larger work that contains part or all of the Bison parser s...",1,['GPL-3.0-with-bison-exception/GPL-3.0-with-bison-exception-7.txt'],True,GPL-2.0-with-bison-exception
+125,"1 License If Epinions, Inc makes available to you a logo for downloading, Epinions hereby grants to ...",1,[],False,Epinions
+126,"Copyright: Copyright (c) 2006 by Apple Computer, Inc., All Rights Reserved. IMPORTANT: This Apple so...",1,[],False,AML
+127,"Version 0.5, 30 August 2006 Exception Intent We want specified Free/Libre and Open Source Software (...",1,[],False,Alfresco-FLOSS
+128,Creative Commons Attribution-NoDerivatives 4.0 International Creative Commons Corporation (\xe2\x80\...,1,[],False,CC-BY-ND-4.0
+129,"The PHP License, version 3.0 Copyright (c) 1999 - 2006 The PHP Group All rights reserved. Redistribu...",1,[],False,PHP-3.0
+130,Attribution-NonCommercial-NoDerivs 3.0 IGO CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES N...,1,[],False,CC-BY-NC-ND-3.0-IGO
+131,Copyright 1995 by Wietse Venema All rights reserved Some individual files may be covered by other co...,1,[],False,TCP-wrappers
+132,"GNU Free Documentation License Version 1.3, 3 November 2008 Copyright (C) 2000, 2001, 2002, 2007, 20...",1,"['GFDL-1.3/GFDL-1.3-265.txt', 'GFDL-1.3/GFDL-1.3-363_Split_SPDX_Licenses.txt', 'GFDL-1.3/GFDL-1.3-188_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-276.txt', 'GFDL-1.3/GFDL-1.3-276_Split_SPDX_Licenses.txt']",True,GFDL-1.3-or-later
+133,CERN Open Hardware Licence Version 2 - Permissive Preamble CERN has developed this licence to promot...,1,[],False,CERN-OHL-P-2.0
+134,"As a special exception, the Free Software Foundation gives unlimited permission to copy, distribute ...",1,[],False,Autoconf-exception-2.0
+135,"(d) if You Deploy Covered Code in object code, executable form only, You must include a prominent no...",1,['Ferris-1.2/Ferris-1.2-388.txt'],True,Ferris-1.2
+136,NOTE! This copyright does *not* cover user programs that use kernel\r\n services by normal system ca...,1,[],False,Linux-syscall-note
+137,5. Making Products...,1,[],False,TAPR-OHL-1.0
+138,"Zimbra Public License, Version 1.4 (ZPL) This Zimbra Public License (this \xe2\x80\x9cAgreement\xe2\...",1,"['ZPL-2.0/ZPL-2.0-3_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-35.txt']",True,Zimbra-1.4
+139,"Copyright (c) 1985, 1987, 1989, 1990, 1991, 1992, 1993, 1997 Adobe Systems Incorporated All Rights R...",1,[],False,APAFML
+140,NAUMEN Public License This software is Copyright (c) NAUMEN (tm) and Contributors All rights reserve...,1,[],False,Naumen
+141,"Copyright (c) 2003-2005 Sun Microsystems, Inc All Rights Reserved. Redistribution and use in source ...",1,[],False,BSD-3-Clause-No-Nuclear-Warranty
+142,Mountains are formed by tectonic plate movement....,0,[],True,
+143,Multics License Historical Background This edition of the Multics software materials and documentati...,1,[],False,Multics
+144,"Licence Art Libre [ Copyleft Attitude ] Version 1.2 Pr\xc3\xa9ambule : Avec cette Licence Art Libre,...",1,[],False,LAL-1.2
+145,Creative Commons Attribution-NoDerivs 3.0 Unported CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AN...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-ND-3.0
+146,Linking this library statically or dynamically with other modules is making a combined work based on...,1,[],False,Fawkes-Runtime-exception
+147,"The Academic Free License v.2.1 This Academic Free License (the ""License"") applies to any original w...",1,"['OSL-2.1/OSL-2.1-57_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-147_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-57.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-4.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-3.txt']",True,AFL-2.1
+148,"GNU Free Documentation License Version 1.3, 3 November 2008 Copyright (C) 2000, 2001, 2002, 2007, 20...",1,"['GFDL-1.3/GFDL-1.3-265.txt', 'GFDL-1.3/GFDL-1.3-363_Split_SPDX_Licenses.txt', 'GFDL-1.3/GFDL-1.3-188_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-276.txt', 'GFDL-1.3/GFDL-1.3-276_Split_SPDX_Licenses.txt']",True,GFDL-1.3
+149,Allegro 4 (the giftware license) Allegro is gift-ware It was created by a number of people working i...,1,[],False,Giftware
+150,"Server Side Public License VERSION 1, OCTOBER 16, 2018 Copyright \xc2\xa9 2018 MongoDB, Inc. Everyon...",1,[],False,SSPL-1.0
+151,"GL2PS LICENSE Version 2, November 2003 Copyright (C) 2003, Christophe Geuzaine...",1,[],False,GL2PS
+152,Creative Commons Attribution-NonCommercial-NoDerivs 2.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FI...,1,"['CC-BY-3.0/CC-BY-3.0-245.txt', 'CC-BY-3.0/CC-BY-3.0-157_Split_SPDX_Licenses.txt']",True,CC-BY-NC-ND-2.0
+153,BSD-3-Clause-Severability is a BSD-style with a severability clause...,1,[],False,BSD-3-Clause-Severability
+154,"GNU Free Documentation License Version 1.2, November 2002 Copyright (C) 2000,2001,2002 Free Software...",1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-365.txt', 'GFDL-1.2/GFDL-1.2-170.txt', 'GFDL-1.2/GFDL-1.2-141_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-11_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-57_Split_SPDX_Licenses.txt']",True,GFDL-1.2-only
+155,"This program, ""bzip2"", the associated library ""libbzip2"", and all documentation, are copyright (C) 1...",1,[],False,bzip2-1.0.6
+156,Copyright (C) 1995-2009 Gerd Neugebauer cwpuzzle.dtx is distributed in the hope that it will be usef...,1,[],False,Crossword
+157,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright \xc2\xa9 2007 Free Software Foundation,...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,GPL-3.0+
+158,EU DataGrid Software License Copyright (c) 2001 EU DataGrid All rights reserved. This software inclu...,1,[],False,EUDatagrid
+159,SOLDERPAD HARDWARE LICENSE version 0.5 This license is based closely on the Apache License Version 2...,1,[],False,SHL-0.5
+160,Copyright 1993-2014 University Corporation for Atmospheric Research/Unidata Portions of this softwar...,1,[],False,NetCDF
+161,## Open Data Commons Open Database License (ODbL) ### Preamble The Open Database License (ODbL) is a...,1,"['NCGL-UK-2.0/NCGL-UK-2.0-4.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-2.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-3.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-1.txt']",True,ODbL-1.0
+162,"Special exception for linking OpenVPN with OpenSSL: In addition, as a special exception, OpenVPN Tec...",1,[],False,openvpn-openssl-exception
+163,"GNU Free Documentation License Version 1.3, 3 November 2008 Copyright (C) 2000, 2001, 2002, 2007, 20...",1,"['GFDL-1.3/GFDL-1.3-265.txt', 'GFDL-1.3/GFDL-1.3-363_Split_SPDX_Licenses.txt', 'GFDL-1.3/GFDL-1.3-188_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-276.txt', 'GFDL-1.3/GFDL-1.3-276_Split_SPDX_Licenses.txt']",True,GFDL-1.3-no-invariants-only
+164,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Found...",1,[],False,AGPL-3.0-or-later
+165,CERN Open Hardware Licence Version 2 - Weakly Reciprocal Preamble CERN has developed this licence to...,1,[],False,CERN-OHL-W-2.0
+166,"CERN OHL v1.2 2013-09-06 - CERN, Geneva, Switzerland CERN Open Hardware Licence v1.2 Preamble Throug...",1,[],False,CERN-OHL-1.2
+167,CeCILL FREE SOFTWARE LICENSE AGREEMENT Version 2.1 dated 2013-06-21 Notice This Agreement is a Free ...,1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-283.txt', 'GFDL-1.2-only/GFDL-1.2-only-129.txt', 'GFDL-1.2/GFDL-1.2-129_Split_SPDX_Licenses.txt', 'GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-129.txt', 'GFDL-1.2/GFDL-1.2-39.txt']",True,CECILL-2.1
+168,"Mozilla Public License Version 2.0 1 Definitions 1.1 ""Contributor"" means each individual or legal en...",1,[],False,MPL-2.0-no-copyleft-exception
+169,Digital art has gained popularity through NFTs....,0,[],True,
+170,JasPer License Version 2.0 Copyright (c) 2001-2006 Michael David Adams Copyright (c) 1999-2000 Image...,1,['OASIS/OASIS-45.txt'],True,JasPer-2.0
+171,"This is version 3.0 of the Open Government Licence. The National Archives may, from time to time, is...",1,['Ferris-1.2/Ferris-1.2-396.txt'],True,OGL-UK-3.0
+172,Open Government Licence v2.0 You are encouraged to use and re-use the Information that is available ...,1,"['NCGL-UK-2.0/NCGL-UK-2.0-3_Split_SPDX_Licenses.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-4_Split_SPDX_Licenses.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-1_Split_SPDX_Licenses.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-2_Split_SPDX_Licenses.txt']",True,OGL-UK-2.0
+173,COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0 1 Definitions. 1.1 \xe2\x80\x9cContri...,1,[],False,CDDL-1.0
+174,Creative Commons Attribution-NonCommercial 1.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DO...,1,[],False,CC-BY-NC-1.0
+175,STORAGE NETWORKING INDUSTRY ASSOCIATION PUBLIC LICENSE Version 1.1 ________________________ 1 Defini...,1,[],False,SNIA-1.1
+176,SOFTWARE LICENSE AGREEMENT PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE DOWNLOADING ...,1,[],False,Cisco
+177,This exception does not invalidate any other reasons why a work based on this file might be covered ...,1,[],False,eCos-exception-2.0
+178,"Entessa Public License Version 1.0 Copyright (c) 2003 Entessa, LLC All rights reserved. Redistributi...",1,[],False,Entessa
+179,NRL License COPYRIGHT NOTICE All of the documentation and software included in this software distrib...,1,[],False,NRL
+180,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Creative Commons Corporation...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-NC-SA-4.0
+181,The FreeBSD Documentation License Copyright 1994-2021 The FreeBSD Project All rights reserved. Redis...,1,[],False,FreeBSD-DOC
+182,Creative Commons Legal Code CC0 1.0 Universal CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOE...,1,['CPL-0.5/CPL-0.5-172.txt'],True,CC0-1.0
+183,License Terms:...,1,"['CC-BY-3.0/CC-BY-3.0-383.txt', 'GFDL-1.3/GFDL-1.3-460.txt', 'GFDL-1.2/GFDL-1.2-457.txt', 'GFDL-1.3/GFDL-1.3-487.txt']",True,Sendmail
+184,MX4J is referenced without a version number Please look up MX4J in the License Admin to view the dif...,1,"['MX4J/MX4J-1.txt', 'MX4J/MX4J-3.txt']",True,MX4J
+185,"COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.1 1 Definitions. 1.1 ""Contributor"" mean...",1,[],False,CDDL-1.1
+186,"Redistribution and use in source and binary forms, with or without modification, are permitted provi...",1,"['OLDAP-2.6/OLDAP-2.6-33.txt', 'OLDAP-2.8/OLDAP-2.8-30.txt']",True,BSD-3-Clause-Modification
+187,Apache License 1.1 Copyright (c) 2000 The Apache Software Foundation All rights reserved. Redistribu...,1,[],False,Apache-1.1
+188,Creative Commons Attribution-ShareAlike 2.5 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES ...,1,[],False,CC-BY-SA-2.5
+189,"Copyright (c) 1998, 1999 Henry Spencer...",1,[],False,Spencer-99
+190,12. No Warranty...,1,[],False,copyleft-next-0.3.1
+191,gSOAP Public License Version 1.3b The gSOAP public license is derived from the Mozilla Public Licens...,1,[],False,gSOAP-1.3b
+192,Unlimited copying and redistribution of each of the files is permitted as long as the file is not mo...,1,[],False,Wsuipa
+193,"Each Contributor must identify itself as the originator of its Contribution, if any, in a manner tha...",1,['CPL-0.5/CPL-0.5-188.txt'],True,EPL-1.0
+194,"In addition, as a special exception, <<var;name=licensor;original=XXXX;match=.+>> gives permission t...",1,[],False,i2p-gpl-java-exception
+195,"GNU GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1989, 1991 Free Software Foundation, I...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,GPL-2.0+
+196,"GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 Copyright (C) 1991, 1999 Free Software ...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,LGPL-2.1+
+197,The Open Group Test Suite License Preamble The intent of this document is to state the conditions un...,1,[],False,OGTSL
+198,"Zimbra Public License, Version 1.3 (ZPL) This Zimbra Public License (this ""Agreement"") is a legal ag...",1,"['ZPL-2.0/ZPL-2.0-26_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-23_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-20_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-14_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-10_Split_SPDX_Licenses.txt']",True,Zimbra-1.3
+199,"Copyright (c) 2006, CRYPTOGAMS by <appro@openssl.org> All rights reserved. Redistribution and use in...",1,"['W3C/W3C-11_Split_SPDX_Licenses.txt', 'W3C/W3C-13.txt']",True,Cryptogams
+200,"1 Definitions Access control mechanism: a technological measure which, in the ordinary course of its...",1,['Ferris-1.2/Ferris-1.2-419.txt'],True,Against-DRM
+201,MINDTERM END-USER LICENSE AGREEMENT (LIMITED COMMERCIAL USE) PLEASE REVIEW THE FOLLOWING TERMS AND C...,1,[],False,Mindterm
+202,# Blue Oak Model License Version 1.0.0 ## Purpose This license gives everyone as much permission to ...,1,[],False,BlueOak-1.0.0
+203,"This FastCGI application library source and object code (the ""Software"") and its documentation (the ...",1,"['OpenMarket/OpenMarket-14.txt', 'OpenMarket/OpenMarket-4.txt', 'OpenMarket/OpenMarket-1.txt', 'OpenMarket/OpenMarket-15.txt', 'OpenMarket/OpenMarket-10.txt']",True,OpenMarket
+204,"Copyright 1986 - 1993, 1998, 2004 Thomas Williams, Colin Kelley Permission to use, copy, and distrib...",1,['W3C/W3C-20.txt'],True,gnuplot
+205,Copyright (c) 1995-1999 The Apache Group All rights reserved. Redistribution and use in source and b...,1,[],False,Apache-1.0
+206,XFree86 is referenced without a version number. Please look up XFree86 in the License Admin to view ...,1,[],False,XFree86
+207,"Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.\r\nThis file is free software; the Free...",1,[],False,FSF
+208,Python 2.2.3 license This is the official license for the Python 2.2.3 release: A HISTORY OF THE SOF...,1,[],False,Python-2.2.3
+209,"This is free and unencumbered software released into the public domain. Anyone is free to copy, modi...",1,[],False,Unlicense
+210,ANTLR 2 License We reserve no legal rights to the ANTLR--it is fully in the public domain An individ...,1,[],False,ANTLR-PD
+211,"Bootloader Exception In addition to the permissions in the GNU General Public License, the authors g...",1,['OASIS/OASIS-45.txt'],True,Bootloader-exception
+212,"GNU Free Documentation License Version 1.2, November 2002 Copyright (C) 2000,2001,2002 Free Software...",1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-365.txt', 'GFDL-1.2/GFDL-1.2-170.txt', 'GFDL-1.2/GFDL-1.2-141_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-11_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-57_Split_SPDX_Licenses.txt']",True,GFDL-1.2-invariants+
+213,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,CECILL-1.1
+214,CDDL is referenced without a version number. Please look up CDDL in the License Admin to view the di...,1,[],False,CDDL
+215,"6) Attribution Rights. You must retain, in the Source Code of any Derivative Works that You create, ...",1,"['OSL-2.1/OSL-2.1-211_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-211.txt']",True,AFL-2.0
+216,"AFFERO GENERAL PUBLIC LICENSE Version 1, March 2002 Copyright \xc2\xa9 2002 Affero Inc 510 Third Str...",1,"['GFDL-1.3/GFDL-1.3-369_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-369.txt', 'GFDL-1.3/GFDL-1.3-386.txt']",True,AGPL-1.0
+217,Zope Public License (ZPL) Version 2.1 A copyright notice accompanies this license document that iden...,1,"['ZPL-2.1/ZPL-2.1-15.txt', 'ZPL-2.1/ZPL-2.1-13_Split_SPDX_Licenses.txt', 'ZPL-2.1/ZPL-2.1-1.txt', 'ZPL-2.1/ZPL-2.1-11_Split_SPDX_Licenses.txt', 'ZPL-2.1/ZPL-2.1-4_Split_SPDX_Licenses.txt']",True,ZPL-2.1
+218,The Sleepycat License Copyright (c) 1990-1999 Sleepycat Software All rights reserved. Redistribution...,1,"['CrystalStacker/CrystalStacker-19.txt', 'CC-BY-3.0/CC-BY-3.0-371.txt']",True,Sleepycat
+219,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright \xc2\xa9 2007 Free Software Foundation,...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,GPL-3.0
+220,"Permission is hereby granted, without written agreement and without license or royalty fees, to use,...",1,"['W3C/W3C-20.txt', 'CPL-0.5/CPL-0.5-180.txt']",True,MIT-Modern-Variant
+221,"Copyright (c) <YEAR> <COPYRIGHT HOLDERS> Redistribution and use in source and binary forms, with or ...",1,"['OLDAP-2.6/OLDAP-2.6-32.txt', 'GFDL-1.2-only/GFDL-1.2-only-72.txt', 'GFDL-1.2/GFDL-1.2-381.txt', 'GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-72.txt', 'GFDL-1.2/GFDL-1.2-72_Split_SPDX_Licenses.txt']",True,BSD-2-Clause-Patent
+222,Since the original terms of 15 years ago maybe do not make our intentions completely clear given tod...,1,[],False,TU-Berlin-2.0
+223,Collaborative Virtual Workspace License (CVW) License Agreement General Redistribution of the CVW so...,1,[],False,MitreCVW
+224,Creative Commons Attribution 2.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE...,1,['Ferris-1.2/Ferris-1.2-412.txt'],True,CC-BY-2.0
+225,"ISC License: Copyright (c) 2004-2010 by Internet Systems Consortium, Inc (""ISC"") Copyright (c) 1995-...",1,[],False,ISC
+226,"CERN OHL v1.1 2011-07-08 - CERN, Geneva, Switzerland CERN Open Hardware Licence v1.1 Preamble Throug...",1,[],False,CERN-OHL-1.1
+227,PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2 1 This LICENSE AGREEMENT is between the Python Software...,1,[],False,Python-2.0
+228,The history of computing dates back to the 1940s....,0,[],True,
+229,Artificial intelligence is transforming the world rapidly....,0,[],True,
+230,The text of Flora License Version 1.0 is similar to Apache License 2.0. Some of the differences incl...,1,[],False,Flora-1.0
+231,1. Grant of Additional Permission....,1,[],False,GPL-3.0-with-autoconf-exception
+232,"GNU Free Documentation License Version 1.3, 3 November 2008 Copyright (C) 2000, 2001, 2002, 2007, 20...",1,"['GFDL-1.3/GFDL-1.3-265.txt', 'GFDL-1.3/GFDL-1.3-363_Split_SPDX_Licenses.txt', 'GFDL-1.3/GFDL-1.3-188_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-276.txt', 'GFDL-1.3/GFDL-1.3-276_Split_SPDX_Licenses.txt']",True,GFDL-1.3-only
+233,Creative Commons Attribution-NoDerivs 2.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NO...,1,"['CC-BY-3.0/CC-BY-3.0-245.txt', 'CC-BY-3.0/CC-BY-3.0-157_Split_SPDX_Licenses.txt']",True,CC-BY-ND-2.0
+234,"GLWT(Good Luck With That) Public License Copyright (c) Everyone, except Author Everyone is permitted...",1,[],False,GLWTPL
+235,"BitTorrent Open Source License Version 1.0 This BitTorrent Open Source License (the ""License"") appli...",1,"['OLDAP-2.8/OLDAP-2.8-13.txt', 'OLDAP-2.8/OLDAP-2.8-7_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-216.txt', 'OSL-2.1/OSL-2.1-216_Split_DB_Foss_Licenses.txt', 'OLDAP-2.8/OLDAP-2.8-16_Split_SPDX_Licenses.txt']",True,BitTorrent-1.0
+236,This source code has been made available to you by IBM on an AS-IS basis Anyone receiving this sourc...,1,[],False,IBM-pibs
+237,CREATIVE COMMONS IST KEINE RECHTSANWALTSKANZLEI UND LEISTET KEINE RECHTSBERATUNG DIE BEREITSTELLUNG ...,1,"['CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-234_Split_SPDX_Licenses.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-301_Split_SPDX_Licenses.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-339_Split_SPDX_Licenses.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-271_Split_SPDX_Licenses.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-236_Split_SPDX_Licenses.txt']",True,CC-BY-3.0-AT
+238,"Business Source License 1.1 License text copyright \xc2\xa9 2017 MariaDB Corporation Ab, All Rights ...",1,[],False,BUSL-1.1
+239,Python 2.4.4 license This is the official license for the Python 2.4 release: A HISTORY OF THE SOFTW...,1,[],False,Python-2.4.4
+240,\xe5\xa6\x82\xe6\x9e\x9c\xe6\x82\xa8\xe5\xb8\x8c\xe6\x9c\x9b\xe5\xb0\x86\xe6\x9c\xa8\xe5\x85\xb0\xe5...,1,[],False,MulanPSL-2.0
+241,Any questions or comments on the software may be directed to benson@mcs.anl.gov or yinyu-ye@stanford...,1,[],False,DSDP
+242,This file is free software; the Free Software Foundation gives unlimited permission to copy and/or d...,1,[],False,FSFULLR
+243,"Copying and distribution of this file, with or without modification, are permitted in any medium wit...",1,[],False,FSFAP
+244,4. Contacts...,1,['FTL/FTL-131.txt'],True,FTL
+245,"OPEN PUBLIC LICENSE Version 1.0 1 Definitions. 1.1 ""Contributor"" means each entity that creates or c...",1,[],False,OPL-1.0
+246,Copyright (c) 1995-2012 by Arkkra Enterprises All rights reserved. Redistribution and use in source ...,1,"['BSD-3-Clause-Clear/BSD-3-Clause-Clear-8.txt', 'info-zip/info-zip-28.txt', 'info-zip/info-zip-28_Split_DB_Foss_Licenses.txt', 'ZPL-2.1/ZPL-21-34.txt', 'ZPL-2.1/ZPL-2.1-27.txt']",True,Mup
+247,"""\xe8\xbd\xaf\xe4\xbb\xb6""\xe6\x98\xaf\xe6\x8c\x87\xe7\x94\xb1""\xe8\xb4\xa1\xe7\x8c\xae""\xe6\x9e\x84...",1,[],False,MulanPSL-1.0
+248,Non-Commercial Government Licence for public sector information You are encouraged to use and re-use...,1,"['NCGL-UK-2.0/NCGL-UK-2.0-4_Split_SPDX_Licenses.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-1_Split_SPDX_Licenses.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-3_Split_SPDX_Licenses.txt', 'NCGL-UK-2.0/NCGL-UK-2.0-2_Split_SPDX_Licenses.txt', 'NLOD-1.0/NLOD-1.0-142.txt']",True,NCGL-UK-2.0
+249,User authentication is essential for secure systems....,0,[],True,
+250,ATI Software End User License Agreement PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THE SOFTWARE...,1,[],False,ATI-EULA
+251,"The OpenLDAP Public License Version 2.2.1, 1 March 2000 Redistribution and use of this software and ...",1,"['OLDAP-2.6/OLDAP-2.6-27.txt', 'OLDAP-2.6/OLDAP-2.6-3_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-25.txt', 'OLDAP-2.6/OLDAP-2.6-24.txt', 'OLDAP-2.6/OLDAP-2.6-26.txt']",True,OLDAP-2.2.1
+252,ZPL is referenced without a version number. Please look up ZPL in the License Admin to view the diff...,1,[],False,ZPL
+253,"THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NO...",1,"['MITNFA/MITNFA-6.txt', 'Imlib2/Imlib2-20.txt', 'MITNFA/MITNFA-6_Split_SPDX_Licenses.txt', 'Intel/Intel-26.txt']",True,MIT-0
+254,"MPL-1.1-style is a MPL-style license, Please look up MPL-1.1 in the License Admin to view the origin...",1,['Ferris-1.2/Ferris-1.2-369.txt'],True,MPL-1.1-style
+255,OpenSSL License Copyright (c) 1998-2008 The OpenSSL Project All rights reserved. Redistribution and ...,1,[],False,OpenSSL
+256,"Version 3.1, 31 March 2009...",1,[],False,GPL-3.0-with-GCC-exception
+257,SUN INDUSTRY STANDARDS SOURCE LICENSE Version 1.2 1.0 DEFINITIONS 1.1 Commercial Use means distribut...,1,[],False,SISSL-1.2
+258,TOP\r\nCOPYRIGHT 2002-2010   M+ FONTS PROJECT...,1,[],False,M+
+259,"Jabber Open Source License Version 1.0 This Jabber Open Source License (the ""License"") applies to Ja...",1,[],False,Jabber-1.0
+260,"The OpenLDAP Public License Version 2.8, 17 August 2003 Redistribution and use of this software and ...",1,"['OLDAP-2.8/OLDAP-2.8-2.txt', 'OLDAP-2.8/OLDAP-2.8-5_Split_SPDX_Licenses.txt', 'OLDAP-2.8/OLDAP-2.8-14_Split_SPDX_Licenses.txt', 'OLDAP-2.8/OLDAP-2.8-11.txt', 'OLDAP-2.8/OLDAP-2.8-26.txt']",True,OLDAP-2.8
+261,This library is free software; you can redistribute it and/or modify it under the terms of the GNU L...,1,[],False,LGPL-2.1+-KDE-exception
+262,"LICENSE AGREEMENT FEDORA(TM) 13 This agreement governs the download, installation or use of the Soft...",1,"['YPL-1.0/YPL-1.0-131.txt', 'YPL-1.1/YPL-1.1-131.txt']",True,Fedora
+263,Copyright (c) <year> <owner>. All rights reserved....,1,[],False,BSD-3-Clause
+264,"The Zend Engine License, version 2.00 Copyright (c) 1999-2002 Zend Technologies Ltd All rights reser...",1,[],False,Zend-2.0
+265,Open Government Licence v1.0 You are encouraged to use and re-use the Information that is available ...,1,"['NCGL-UK-2.0/NCGL-UK-2.0-10.txt', 'NCGL-UK-2.0/NCGL-UK-20-9.txt']",True,OGL-UK-1.0
+266,CITRIX\xc2\xae LICENSE AGREEMENT This is a legal agreement (\xe2\x80\x9cAGREEMENT\xe2\x80\x9d) betwe...,1,[],False,Citrix
+267,"AFFERO GENERAL PUBLIC LICENSE Version 1, March 2002 Copyright \xc2\xa9 2002 Affero Inc 510 Third Str...",1,"['GFDL-1.3/GFDL-1.3-369_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-369.txt', 'GFDL-1.3/GFDL-1.3-386.txt']",True,AGPL-1.0-only
+268,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,CECILL-2.0
+269,"GNU LIBRARY GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1991 Free Software Foundation,...",1,[],False,LGPL-2.0-or-later
+270,That's all there is to it!...,1,[],False,GPL-1.0+
+271,"Copyright (c) <year> <owner> All rights reserved. Redistribution and use in source and binary forms,...",1,['OLDAP-2.6/OLDAP-2.6-32.txt'],True,BSD-2-Clause
+272,"BroadCom License Agreement IMPORTANT-READ CAREFULLY: This End-User License Agreement (""EULA"") is a l...",1,[],False,Broadcom-EULA
+273,CATOSL is referenced without a version number. Please look up CATOSL in the License Admin to view th...,1,"['CATOSL/CATOSL-3.txt', 'CATOSL/CATOSL-2.txt', 'CATOSL/CATOSL-1.txt']",True,CATOSL
+274,MakeIndex Distribution Notice 11/11/1989 Copyright (C) 1989 by Chen & Harrison International Systems...,1,[],False,MakeIndex
+275,BSD-4-Clause (University of California-Specific) Copyright [various years] The Regents of the Univer...,1,[],False,BSD-4-Clause-UC
+276,"Flora License Version 1.1, April, 2013 http://floralicense.org/license TERMS AND CONDITIONS FOR USE,...",1,[],False,Flora
+277,"Copyright (c) 2008 The NetBSD Foundation, Inc. All rights reserved....",1,[],False,BSD-2-Clause-NetBSD
+278,Aptana Public License 1.0 The Aptana Public License is designed to allow you the freedom to use Apta...,1,[],False,Aptana-1.0
+279,Microsoft Limited Public License (Ms-LPL) This license governs use of the accompanying software If y...,1,[],False,MS-LPL
+280,/* * Copyright (c) 2002-2010 Oracle All rights reserved. * * Redistribution and use in source and bi...,1,[],False,Oracle-Berkeley-DB
+281,The Fedora Project Individual Contributor License Agreement (CLA) http://fedoraproject.org/wiki/Lega...,1,[],False,FedoraCLA
+282,CCLRC License for CCLRC Software forming part of the Climate Data Analysis Tools Package The Council...,1,[],False,CCLRC
+283,"Software License Welcome to Yahoo! software (the ""Yahoo! Software"") By clicking the ""I Agree"" button...",1,[],False,Yahoo-EULA
+284,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,GFDL-1.1-invariants+
+285,The above copyright notice and this permission notice shall be included in all copies or substantial...,1,"['MITNFA/MITNFA-4.txt', 'MITNFA/MITNFA-4_Split_SPDX_Licenses.txt', 'MITNFA/MITNFA-2.txt', 'MITNFA/MITNFA-1_Split_SPDX_Licenses.txt']",True,MITNFA
+286,"GNU Free Documentation License Version 1.2, November 2002 Copyright (C) 2000,2001,2002 Free Software...",1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-365.txt', 'GFDL-1.2/GFDL-1.2-170.txt', 'GFDL-1.2/GFDL-1.2-141_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-11_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-57_Split_SPDX_Licenses.txt']",True,GFDL-1.2
+287,CAREFULLY READ THE FOLLOWING TERMS AND CONDITIONS AS WELL AS THE EXPORT COMPLIANCE REQUIREMENTS SET ...,1,[],False,Adaptec
+288,MIT License Copyright (c) <year> <copyright holders>...,1,[],False,MIT
+289,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,Agere
+290,"W3C\xc2\xae SOFTWARE NOTICE AND LICENSE Copyright (c) 1994-2002 World Wide Web Consortium, (Massachu...",1,"['W3C/W3C-11_Split_SPDX_Licenses.txt', 'W3C/W3C-13.txt', 'W3C/W3C-2.txt', 'W3C/W3C-1_Split_SPDX_Licenses.txt', 'W3C/W3C-1.txt']",True,W3C-19980720
+291,"Vous pouvez diffuser librement les copies de ces \xc5\x93uvres, modifi\xc3\xa9es ou non, quel que so...",1,[],False,LAL-1.3
+292,8. BBN makes no representation about the suitability of OpenMap\r\nfor any purposes.  BBN shall have...,1,[],False,OpenMap
+293,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Creative Commons Corporat...,1,[],False,CC-BY-NC-ND-4.0
+294,"Non-Profit Open Software License 3.0 This Non-Profit Open Software License (""Non-Profit OSL"") versio...",1,[],False,NPOSL-3.0
+295,Python 2.7 license This is the official license for the Python 2.7 release: A HISTORY OF THE SOFTWAR...,1,[],False,Python-2.7
+296,"Upstream Compatibility License v 1.0 (UCL-1.0) This Upstream Compatibility License (the ""License"") a...",1,[],False,UCL-1.0
+297,"THE SOFTWARE IS PROVIDED ""AS-IS"" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHERWISE, IN...",1,"['libtiff/Libtiff-3_Split_SPDX_Licenses.txt', 'libtiff/libtiff-4.txt']",True,libtiff
+298,"COPYRIGHT The following is a notice of limited availability of the code, and disclaimer which must b...",1,[],False,mpich2
+299,LGPL is referenced without a version number Please look up LGPL in the License Admin to view the dif...,1,[],False,LGPL
+300,Open Data Commons - Public Domain Dedication & License (PDDL) Preamble The Open Data Commons - Publi...,1,[],False,PDDL-1.0
+301,"Copyright (c) 1996 NVIDIA, Corp All rights reserved. NOTICE TO USER: The source code is copyrighted ...",1,[],False,Nvidia
+302,Public domain software is software that is not copyrighted If the source code is in the public domai...,1,[],False,Public-domain
+303,Creative Commons Attribution 3.0 Unported CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NO...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-3.0
+304,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,eCos-2.0
+305,Eclipse Public License - v 2.0 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE ...,1,[],False,EPL-2.0
+306,OLDAP is referenced without a version number...,1,[],False,OLDAP
+307,"[2004, Fair License: rhid.com/fair (this URL no longer works)]\r\n...",1,[],False,Fair
+308,"Open Software License v 3.0 (OSL-3.0) This Open Software License (the ""License"") applies to any orig...",1,[],False,OSL-3.0
+309,"Common Public Attribution License Version 1.0 (CPAL) 1 ""Definitions"" 1.0.1 ""Commercial Use"" means di...",1,[],False,CPAL-1.0
+310,"- DES is now external, in the OpenSSL library...",1,[],False,SSH-OpenSSH
+311,"Copyright 2000, 2001, 2002, 2003 Nara Institute of Science and Technology All Rights Reserved. Use, ...",1,[],False,NAIST-2003
+312,IBM Public License Version 1.0 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM PUBL...,1,"['CPL-0.5/CPL-0.5-200.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-2.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-2_Split_SPDX_Licenses.txt']",True,IPL-1.0
+313,"According to BSD license, add some modifications...",1,[],False,BSD-style
+314,"GNU Free Documentation License Version 1.3, 3 November 2008 Copyright (C) 2000, 2001, 2002, 2007, 20...",1,"['GFDL-1.3/GFDL-1.3-265.txt', 'GFDL-1.3/GFDL-1.3-363_Split_SPDX_Licenses.txt', 'GFDL-1.3/GFDL-1.3-188_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-276.txt', 'GFDL-1.3/GFDL-1.3-276_Split_SPDX_Licenses.txt']",True,GFDL-1.3-invariants-only
+315,The LaTeX Project Public License =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- LPPL Version 1.3a 2004-10-01 Copyr...,1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,LPPL-1.3a
+316,"This work is provided ""AS IS"" and WITHOUT WARRANTY of any kind, to the utmost extent permitted by ap...",1,[],False,MirOS
+317,"Jan 21, 2002 The libgcj library is licensed under the terms of the GNU General Public License. Linki...",1,[],False,LIBGCJ
+318,"RealNetworks Public Source License Version 1.0 (Rev Date October 28, 2002) 1 General Definitions Thi...",1,"['NLOD-1.0/NLOD-1.0-155.txt', 'GFDL-1.2/GFDL-1.2-415.txt', 'GFDL-1.3/GFDL-1.3-445.txt']",True,RPSL-1.0
+319,"Copyright 1992, 1993, 1994 Henry Spencer All rights reserved. This software is not subject to any li...",1,['Ferris-1.2/Ferris-1.2-369.txt'],True,Spencer-94
+320,"Except as contained in this notice, the name of a copyright holder shall not be used in advertising ...",1,['OLDAP-2.8/OLDAP-2.8-35.txt'],True,ICU
+321,"The MX4J License, Version 1.0 Copyright (c) 2001-2004 by the MX4J contributors All rights reserved. ...",1,[],False,MX4J-1.0
+322,"APPLE PUBLIC SOURCE LICENSE Version 2.0 - August 6, 2003 Please read this License carefully before d...",1,[],False,APSL-2.0
+323,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright \xc2\xa9 2007 Free Software Foundation,...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,GPL-3.0-or-later
+324,"Terms of Service IN THESE TERMS AND CONDITIONS, ""WE,"" ""US,"" ""ITS"" AND ""OUR"" REFER TO SPIKESOURCE, IN...",1,[],False,Spikesource
+325,The font and related files in this directory are distributed under the GNU AFFERO GENERAL PUBLIC LIC...,1,[],False,PS-or-PDF-font-exception-20170817
+326,"ACPI - Software License Agreement Software License Agreement IMPORTANT - READ BEFORE COPYING, INSTAL...",1,[],False,Intel-ACPI
+327,"The Berkeley Software Distribution (""BSD"") license has proven very effective over the years at allow...",1,[],False,BSD-Protection
+328,insert GPL v2 license text here GCC Linking Exception In addition to the permissions in the GNU Gene...,1,[],False,GPL-2.0-with-GCC-exception
+329,"1 You may make and give away verbatim copies of the source form of the software without restriction,...",1,['OpenMarket/OpenMarket-17.txt'],True,Ruby
+330,"Reciprocal Public License, version 1.1 Copyright (C) 2001-2002 Technical Pursuit Inc., All Rights Re...",1,['NCGL-UK-2.0/NCGL-UK-20-12.txt'],True,RPL-1.1
+331,"Furthermore, you are not required to apply this additional permission to a modified version of the L...",1,[],False,Qt-LGPL-exception-1.1
+332,SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007 PREAMBLE The goals of the Open Font License (OF...,1,[],False,OFL-1.1-no-RFN
+333,Licence Libre du Qu\xc3\xa9bec \xe2\x80\x93 R\xc3\xa9ciprocit\xc3\xa9 (LiLiQ-R) Version 1.1 1 Pr\xc3...,1,[],False,LiLiQ-R-1.1
+334,Not find any license in the scanned file...,1,['OASIS/OASIS-64.txt'],True,No_license_found
+335,Additional permission under GNU GPL version 3 section 7...,1,[],False,GPL-3.0-linking-exception
+336,"The PHP License, version 3.01 Copyright (c) 1999 - 2012 The PHP Group All rights reserved. Redistrib...",1,[],False,PHP-3.01
+337,Common Public License Version 1.0 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS COMMO...,1,"['CPL-0.5/CPL-0.5-52.txt', 'CPL-0.5/CPL-0.5-151.txt', 'CPL-0.5/CPL-0.5-84.txt', 'CPL-0.5/CPL-0.5-156.txt', 'CPL-0.5/CPL-0.5-11.txt']",True,CPL-1.0
+338,Copyright (C) 2000-2002 werken digital. All rights reserved. Redistribution and use in source and bi...,1,[],False,Saxpath
+339,Summary: This program is free software; you can redistribute it and/or modify it under the terms of ...,1,[],False,CLISP-exception-2.0
+340,Global warming poses a serious threat to ecosystems....,0,[],True,
+341,"1.5 ""Larger Work"" means a work which combines Covered Code or portions thereof with code not governe...",1,"['Ferris-1.2/Ferris-1.2-374.txt', 'OLDAP-2.8/OLDAP-2.8-2.txt', 'OLDAP-2.8/OLDAP-2.8-5_Split_SPDX_Licenses.txt', 'OLDAP-2.8/OLDAP-2.8-14_Split_SPDX_Licenses.txt', 'OLDAP-2.8/OLDAP-2.8-11.txt']",True,SGI-B-1.0
+342,CNRI OPEN SOURCE LICENSE AGREEMENT IMPORTANT: PLEASE READ THE FOLLOWING AGREEMENT CAREFULLY. BY CLIC...,1,[],False,CNRI-Python
+343,CompuServe's Offical Gif License Agreement AGREEMENT FOR USE OF GRAPHICS INTERCHANGE FORMAT(SM) This...,1,[],False,CompuServe
+344,Lucent Public License Version 1.0 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS PUBLI...,1,[],False,LPL-1.0
+345,"As a special exception to the GNU Lesser General Public License, you may link, statically or dynamic...",1,[],False,OCaml-LGPL-linking-exception
+346,He bought some apples and oranges from the supermarket....,0,[],True,
+347,THE OPEN GROUP PUBLIC LICENSE MOTIF GRAPHICAL USER INTERFACE SOFTWARE THE ACCOMPANYING PROGRAM IS PR...,1,[],False,OpenGroup
+348,"Historical Permission Notice and Disclaimer <copyright notice> Permission to use, copy, modify and d...",1,"['MITNFA/MITNFA-1.txt', 'MITNFA/MITNFA-2_Split_SPDX_Licenses.txt']",True,HPND
+349,Creative Commons Attribution-NonCommercial-ShareAlike 2.5 CREATIVE COMMONS CORPORATION IS NOT A LAW ...,1,[],False,CC-BY-NC-SA-2.5
+350,"GNU LIBRARY GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1991 Free Software Foundation,...",1,[],False,LGPL-2.0
+351,"Qhull, Copyright (c) 1993-2003 The National Science and Technology Research Center for Computation a...",1,[],False,Qhull
+352,"Any FreeRTOS source code, whether modified or in its original release form, or whether in whole or i...",1,[],False,freertos-exception-2.0
+353,Creative Commons Attribution-NoDerivs-NonCommercial 1.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FI...,1,"['CC-BY-3.0/CC-BY-3.0-245.txt', 'CC-BY-3.0/CC-BY-3.0-157_Split_SPDX_Licenses.txt']",True,CC-BY-NC-ND-1.0
+354,Copyright (c) year copyright holder All Rights Reserved. Redistribution and use in source and binary...,1,['BSD-3-Clause-Clear/BSD-3-Clause-Clear-11.txt'],True,BSD-3-Clause-No-Military-License
+355,"Copyright (c) <year> <owner> All rights reserved. Redistribution and use in source and binary forms,...",1,"['MITNFA/MITNFA-6_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-1_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-2.txt']",True,BSD-2-Clause-Views
+356,EPICS Open License Terms The following is the text of the EPICS Open software license agreement whic...,1,[],False,EPICS
+357,"Intel wireless LAN adapters are engineered, manufactured, tested, and quality checked to ensure that...",1,[],False,Intel-WLAN
+358,0. You just DO WHAT THE FUCK YOU WANT TO.\r\n...,1,[],False,WTFPL
+359,Release Early Certified Software...,1,[],False,DigiRule-FOSS-exception
+360,Python 2.3.7 license This is the official license for the Python 2.3.7 release: A HISTORY OF THE SOF...,1,[],False,Python-2.3.7
+361,"Terms and conditions for copying, distribution, modification or anything else....",1,[],False,NLPL
+362,The FLTK library and included programs are provided under the terms of the GNU Library General Publi...,1,[],False,FLTK-exception
+363,"# The Cryptographic Autonomy License, v 1.0 *This Cryptographic Autonomy License (the ""License"") app...",1,[],False,CAL-1.0
+364,VIM LICENSE I) There are no restrictions on distributing unmodified copies of Vim except that they m...,1,"['VIM/Vim-30_Split_SPDX_Licenses.txt', 'VIM/VIM-44_Split_DB_Foss_Licenses.txt', 'VIM/Vim-25_Split_SPDX_Licenses.txt', 'VIM/VIM-12_Split_DB_Foss_Licenses.txt', 'VIM/Vim-23_Split_SPDX_Licenses.txt']",True,VIM
+365,"Redistribution and use in source and binary forms, with or without modification, are permitted provi...",1,"['ZPL-2.0/ZPL-20-32.txt', 'ZPL-2.0/ZPL-2.0-38.txt', 'ZPL-2.1/ZPL-2.1-25.txt', 'ZPL-2.1/ZPL-21-32.txt', 'Intel/Intel-22.txt']",True,BSD-3-Clause-No-Nuclear-License-2014
+366,Coffee consumption has increased during remote work periods....,0,[],True,
+367,"Mountain View, California 94043...",1,[],False,Rdisc
+368,"MOZILLA FIREFOX END-USER SOFTWARE LICENSE AGREEMENT Version 3.0, May 2008 A SOURCE CODE VERSION OF C...",1,[],False,MPL-EULA-3.0
+369,"The Open Software License v 1.1 This Open Software License (the ""License"") applies to any original w...",1,"['OSL-2.1/OSL-2.1-123_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-85_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-79_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-152_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-178.txt']",True,OSL-1.1
+370,"CYGNUS ECOS PUBLIC LICENSE Version 1.0 1 DEFINITIONS. 1.1 ""Contributor"" means each entity that creat...",1,[],False,Cygnus-eCos-1.0
+371,"Copyright and Licensing Information for ACE(TM), TAO(TM), CIAO(TM), DAnCE(TM), and CoSMIC(TM) ACE(TM...",1,[],False,ACE
+372,"Copyright (c) 1995, 1996 Xerox Corporation All Rights Reserved. Use and copying of this software and...",1,"['MITNFA/MITNFA-3.txt', 'Imlib2/Imlib2-17.txt', 'MITNFA/MITNFA-3_Split_SPDX_Licenses.txt', 'ZPL-2.1/ZPL-21-35.txt', 'ZPL-2.1/ZPL-2.1-28.txt']",True,Xerox
+373,IPA Font License Agreement v1.0 The Licensor provides the Licensed Program (as defined in Article 1 ...,1,[],False,IPA
+374,"Condor Public License Version 1.1, October 30, 2003 Copyright \xc2\xa9 1990-2006 Condor Team, Comput...",1,[],False,Condor-1.1
+375,"The OpenLDAP Public License Version 2.2, 1 March 2000 Redistribution and use of this software and as...",1,"['OLDAP-2.6/OLDAP-2.6-27_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-6.txt', 'OLDAP-2.6/OLDAP-2.6-1_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-22.txt', 'OLDAP-2.6/OLDAP-2.6-13.txt']",True,OLDAP-2.2
+376,"Activities other than copying, distribution and modification are not covered by this License; they a...",1,"['gnu-javamail-exception/gnu-javamail-exception-2_Split_SPDX_Licenses.txt', 'gnu-javamail-exception/gnu-javamail-exception-1.txt']",True,GPL-2.0
+377,\xe6\x94\xbf\xe5\xba\x9c\xe8\xb3\x87\xe6\x96\x99\xe9\x96\x8b\xe6\x94\xbe\xe6\x8e\x88\xe6\xac\x8a\xe6...,1,[],False,OGDL-Taiwan-1.0
+378,"Aladdin Free Public License (Version 8, November 18, 1999) Copyright (C) 1994, 1995, 1997, 1998, 199...",1,[],False,Aladdin
+379,"Copyright (C) 2000-2008 Carsten Haitzler, Geoff Harrison and various contributors Copyright (C) 2004...",1,"['MITNFA/MITNFA-6_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-1_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-2.txt']",True,MIT-advertising
+380,"The OpenLDAP Public License Version 2.2.2, 28 July 2000 Redistribution and use of this software and ...",1,"['OLDAP-2.6/OLDAP-2.6-27.txt', 'OLDAP-2.6/OLDAP-2.6-3_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-25.txt', 'OLDAP-2.6/OLDAP-2.6-24.txt', 'OLDAP-2.6/OLDAP-2.6-26.txt']",True,OLDAP-2.2.2
+381,"Copyright and Licensing Information for ACE(TM), TAO(TM), CIAO(TM), DAnCE(TM), and CoSMIC(TM) ACE(TM...",1,[],False,DOC
+382,"Redistribution and use in source and binary forms, with or without modification, are permitted provi...",1,"['ZPL-2.0/ZPL-20-32.txt', 'ZPL-2.0/ZPL-2.0-38.txt', 'ZPL-2.1/ZPL-2.1-25.txt', 'ZPL-2.1/ZPL-21-32.txt', 'Intel/Intel-22.txt']",True,Linux-OpenIB
+383,"The OpenLDAP Public License Version 2.0, 7 June 1999 Copyright 1999, The OpenLDAP Foundation, Redwoo...",1,"['OLDAP-2.1/OLDAP-2.1-12_Split_SPDX_Licenses.txt', 'OLDAP-2.1/OLDAP-2.1-30.txt', 'OLDAP-2.1/OLDAP-2.1-24_Split_SPDX_Licenses.txt', 'OLDAP-2.1/OLDAP-2.1-36_Split_SPDX_Licenses.txt', 'OLDAP-2.1/OLDAP-2.1-24.txt']",True,OLDAP-2.0
+384,"This software is copyrighted by the Regents of the University of California, Sun Microsystems, Inc.,...",1,[],False,TCL
+385,Copyright 1989--2004 by Hunter Goatley. Permission is granted to anyone to use this software for any...,1,[],False,Newsletr
+386,This is a package of commutative diagram macros built on top of Xy-pic by Michael Barr (email: barr@...,1,[],False,Barr
+387,Copyright 2001-2009 Brandon Long ClearSilver is now licensed under the New BSD License. Redistributi...,1,"['OLDAP-2.6/OLDAP-2.6-27.txt', 'OLDAP-2.6/OLDAP-2.6-3_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-25.txt', 'OLDAP-2.6/OLDAP-2.6-24.txt', 'OLDAP-2.6/OLDAP-2.6-26.txt']",True,ClearSilver
+388,PHP is referenced without a version number...,1,[],False,PHP
+389,"Reciprocal Public License 1.5 (RPL1.5) Version 1.5, July 15, 2007 Copyright (C) 2001-2007 Technical ...",1,[],False,RPL-1.5
+390,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,GFDL-1.1-no-invariants-or-later
+391,Linking this OpenJDK Code statically or dynamically with other code is making a combined work based ...,1,[],False,OpenJDK-assembly-exception-1.0
+392,The concert will be held at the downtown auditorium....,0,[],True,
+393,"The Educational Community License This Educational Community License (the ""License"") applies to any ...",1,['CPL-0.5/CPL-0.5-195.txt'],True,ECL-1.0
+394,Independent JPEG Group License LEGAL ISSUES In plain English: 1 We don't promise that this software ...,1,[],False,IJG
+395,------------------------------------------------------------------------------------------------ JIS...,1,[],False,JISP
+396,"END-USER FIRMWARE LICENSE AGREEMENT IMPORTANT - PLEASE READ BEFORE COPYING, INSTALLING OR USING. Do ...",1,[],False,Hauppauge
+397,ADAPTIVE PUBLIC LICENSE Version 1.0 THE LICENSED WORK IS PROVIDED UNDER THE TERMS OF THIS ADAPTIVE P...,1,[],False,APL-1.0
+398,CMU License...,1,[],False,CMU
+399,"zlib License Copyright (c) <year> <copyright holders> This software is provided 'as-is', without any...",1,[],False,Zlib
+400,== == Copyright and Licensing Information == $Id: License.txt 94670 2011-10-07 09:56:15Z johnnyw $ =...,1,[],False,FaCE
+401,"TrueCrypt License Version 3.0 Software distributed under this license is distributed on an ""AS IS"" B...",1,[],False,TrueCrypt-3.0
+402,"Mibble Software License Agreement Document No: DOC:2007:03 Author: Per Cederberg, sales@percederberg...",1,[],False,Mibble
+403,"Open CASCADE Technology Public License Version 6.6, April 2013 OPEN CASCADE releases and makes publi...",1,[],False,OCCT-PL
+404,"EXCEPTION NOTICE 1 As a special exception, the copyright holders of this library give permission for...",1,[],False,WXwindows
+405,Open CASCADE Exception (version 1.0) to GNU LGPL version 2.1. The object code (i.e not a source) for...,1,[],False,OCCT-exception-1.0
+406,"THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NO...",1,"['MITNFA/MITNFA-6_Split_SPDX_Licenses.txt', 'Imlib2/Imlib2-20.txt', 'ZPL-2.1/ZPL-2.1-32.txt', 'PostgreSQL/PostgreSQL-2.txt', 'PostgreSQL/PostgreSQL-1_Split_SPDX_Licenses.txt']",True,MIT-feh
+407,"Copyright (c) 2001 Unidex, Inc All rights reserved. Unidex, Inc grants you permission to copy, modif...",1,[],False,Unidex
+408,Python 2.5 license This is the official license for the Python 2.5 release: A HISTORY OF THE SOFTWAR...,1,[],False,Python-2.5
+409,European Union Public Licence V 1.1 EUPL (c) the European Community 2007 This European Union Public ...,1,[],False,EUPL-1.1
+410,"Before we get to the text of the license, lets just review what the license says in simple terms: It...",1,[],False,ImageMagick
+411,"In addition to the permissions in the GNU General Public License, the Free Software Foundation gives...",1,[],False,GCC-exception-2.0
+412,The source code in this package is copyright 1999-2010 by Andrew Plotkin. You may copy and distribut...,1,[],False,Glulxe
+413,"Flora License Version 1.1, April, 2013 http://floralicense.org/license TERMS AND CONDITIONS FOR USE,...",1,[],False,Flora-1.1
+414,Creative Commons Attribution-ShareAlike 2.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES ...,1,['Ferris-1.2/Ferris-1.2-412.txt'],True,CC-BY-SA-2.0
+415,Exception 2:...,1,[],False,Qt-GPL-exception-1.0
+416,"As a special exception, you may create a larger work that contains part or all of the Bison parser s...",1,['GPL-3.0-with-bison-exception/GPL-3.0-with-bison-exception-7.txt'],True,GPL-3.0+-with-bison-exception
+417,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,Docbook
+418,"GNU LIBRARY GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1991 Free Software Foundation,...",1,[],False,LGPL-2.0-only
+419,"Educational Community License Version 2.0, April 2007 http://www.osedu.org/licenses/ The Educational...",1,"['SCEA/SCEA-41_Split_SPDX_Licenses.txt', 'SCEA/SCEA-114.txt', 'SCEA/SCEA-119.txt']",True,ECL-2.0
+420,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,GFDL-1.1-no-invariants-only
+421,"DESIGN SCIENCE LICENSE TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION Copyright \xc...",1,[],False,DSL
+422,"Copyright (c) <dates>, <Copyright Holder> (<URL|email>), with Reserved Font Name <Reserved Font Name...",1,[],False,OFL-1.1
+423,BSD is referenced without a version number...,1,[],False,BSD
+424,"CONDOR PUBLIC LICENSE Version 1.0, February 7, 2003 Copyright \xc2\xa9 1990-2007 Condor Team, Comput...",1,[],False,Condor-1.0
+425,(7) You may aggregate the Package (either the Standard Version or Modified Version) with other packa...,1,[],False,Artistic-2.0
+426,"GNU Free Documentation License Version 1.2, November 2002 Copyright (C) 2000,2001,2002 Free Software...",1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-365.txt', 'GFDL-1.2/GFDL-1.2-170.txt', 'GFDL-1.2/GFDL-1.2-141_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-11_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-57_Split_SPDX_Licenses.txt']",True,GFDL-1.2-invariants-or-later
+427,Creative Commons Attribution-NonCommercial-NoDerivs 2.5 CREATIVE COMMONS CORPORATION IS NOT A LAW FI...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-NC-ND-2.5
+428,Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported CREATIVE COMMONS CORPORATION IS N...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-NC-SA-3.0
+429,"The TMate Open Source License This license applies to all portions of TMate SVNKit library, which ar...",1,[],False,TMate
+430,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,GFDL-1.1-invariants-only
+431,"Permission to use, copy, modify, and distribute this software and its documentation for any purpose ...",1,[],False,NTP-0
+432,Deutsche Freie Software Lizenz (c) Ministerium f\xc3\xbcr Wissenschaft und Forschung Nordrhein-Westf...,1,['MITNFA/MITNFA-6_Split_SPDX_Licenses.txt'],True,D-FSL-1.0
+433,"GNU Free Documentation License Version 1.3, 3 November 2008 Copyright (C) 2000, 2001, 2002, 2007, 20...",1,"['GFDL-1.3/GFDL-1.3-265.txt', 'GFDL-1.3/GFDL-1.3-363_Split_SPDX_Licenses.txt', 'GFDL-1.3/GFDL-1.3-188_Split_SPDX_Licenses.txt', 'GFDL-1.3-invariants-or-later/GFDL-1.3-invariants-or-later-276.txt', 'GFDL-1.3/GFDL-1.3-276_Split_SPDX_Licenses.txt']",True,GFDL-1.3-invariants-or-later
+434,"GNU GENERAL PUBLIC LICENSE Version 1, February 1989 Copyright (C) 1989 Free Software Foundation, Inc...",1,[],False,GPL-1.0-only
+435,"Yahoo! Public License, Version 1.0 (YPL) This Yahoo! Public License (this ""Agreement"") is a legal ag...",1,"['YPL-1.0/YPL-1.0-23_Split_SPDX_Licenses.txt', 'YPL-1.0/YPL-1.0-44_Split_SPDX_Licenses.txt', 'YPL-1.0/YPL-1.0-19_Split_SPDX_Licenses.txt', 'YPL-1.0/YPL-1.0-85.txt', 'YPL-1.0/YPL-1.0-30.txt']",True,YPL-1.0
+436,Python 3.1.1 license This is the official license for the Python 3.1.1 release: A HISTORY OF THE SOF...,1,[],False,Python-3.1.1
+437,"Creative Commons Attribution-NonCommercial 4.0 International Creative Commons Corporation (""Creative...",1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-NC-4.0
+438,"# The Cryptographic Autonomy License, v 1.0 *This Cryptographic Autonomy License (the ""License"") app...",1,[],False,CAL-1.0-Combined-Work-Exception
+439,"NETIZEN OPEN SOURCE LICENSE Version 1.0 1 Definitions. 1.0.1 ""Commercial Use"" means distribution or ...",1,[],False,NOSL
+440,"VMWARE MASTER END USER LICENSE AGREEMENT NOTICE: BY DOWNLOADING AND INSTALLING, COPYING OR OTHERWISE...",1,[],False,VMWare-EULA
+441,The quick brown fox jumps over the lazy dog....,0,[],True,
+442,and...,1,[],False,Trolltech
+443,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,GFDL-1.1-invariants-or-later
+444,Qt COMMERCIAL LICENSE AGREEMENT Agreement version 3.8 This Qt Commercial License Agreement (\xe2\x80...,1,[],False,QT.Commercial
+445,"As far as I am concerned, the code I have written for this software can be used freely for any purpo...",1,[],False,SSH-short
+446,"OGC Software License, Version 1.0 This OGC work (including software, documents, or other related ite...",1,[],False,OGC-1.0
+447,"SOFTWARE LICENSE AGREEMENT This user license agreement (the ""AGREEMENT"") is an agreement between you...",1,[],False,UCWare-EULA
+448,"GNU LESSER GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundatio...",1,[],False,LGPL-3.0
+449,CeCILL-B FREE SOFTWARE LICENSE AGREEMENT Notice This Agreement is a Free Software license agreement ...,1,[],False,CECILL-B
+450,"As a special exception to the GNU Lesser General Public License version 3 (""LGPL3""), the copyright h...",1,['Ferris-1.2/Ferris-1.2-383.txt'],True,LGPL-3.0-linking-exception
+451,"APPLE PUBLIC SOURCE LICENSE Version 1.1 - April 19, 1999 Please read this License carefully before d...",1,[],False,APSL-1.1
+452,EGENIX.COM PUBLIC LICENSE AGREEMENT Version 1.1.0 This license agreement is based on the Python CNRI...,1,[],False,eGenix
+453,They planned to watch the meteor shower on Friday night....,0,[],True,
+454,COPYRIGHT NOTICE These patterns and the generating sh script are Copyright (c) GMV 1991 These patter...,1,[],False,Bahyph
+455,Free Art License 1.3 [ Copyleft Attitude ] Free Art License 1.3 (FAL 1.3) Preamble The Free Art Lice...,1,[],False,FAL-1.3
+456,NETSCAPE PUBLIC LICENSE Version 1.0 1 Definitions. 1.1 ``Contributor'' means each entity that create...,1,[],False,NPL-1.0
+457,Zope Public License (ZPL) Version 2.0 This software is Copyright (c) Zope Corporation (tm) and Contr...,1,"['ZPL-2.0/ZPL-2.0-13_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-16_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-1_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-27_Split_SPDX_Licenses.txt', 'ZPL-2.0/ZPL-2.0-9_Split_SPDX_Licenses.txt']",True,ZPL-2.0
+458,Copyright 2002 (C) The Codehaus All Rights Reserved. Redistribution and use of this software and ass...,1,"['PostgreSQL/PostgreSQL-1_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-2.txt']",True,Plexus
+459,Terms Of Use This software was developed by employees of the National Institute of Standards and Tec...,1,[],False,NIST-PD
+460,"(c) Jim Davies, January 1995 You may copy and distribute this file freely...",1,"['Zed/Zed-1.txt', 'Zed/Zed-1_Split_SPDX_Licenses.txt']",True,Zed
+461,"Detection Rule License (DRL) 1.0\r\nPermission is hereby granted, free of charge, to any person obta...",1,[],False,DRL-1.0
+462,"Permission is hereby granted, free of charge, to any person obtaining a copy of this software and as...",1,"['Imlib2/Imlib2-17.txt', 'MITNFA/MITNFA-3_Split_SPDX_Licenses.txt', 'MITNFA/MITNFA-3.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-498.txt']",True,X11
+463,"-------------------------------------------------------------------- The PHP License, version 2.02 C...",1,[],False,PHP-2.02
+464,"GNU GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1989, 1991 Free Software Foundation, I...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,GPL-2.0-or-later
+465,Copyright (C) 2000 Carsten Haitzler and various contributors (see AUTHORS) Permission is hereby gran...,1,"['Imlib2/Imlib2-18.txt', 'MITNFA/MITNFA-6_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-1_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-2.txt']",True,MIT-enna
+466,"The authors hereby grant permission to use, copy, modify, distribute, and license this software and ...",1,"['SCEA/SCEA-141.txt', 'OLDAP-2.8/OLDAP-2.8-34.txt']",True,SWL
+467,"Copyright (c) 2006 Academy of Motion Picture Arts and Sciences (""A.M.P.A.S."") Portions contributed b...",1,['Intel/Intel-26.txt'],True,AMPAS
+468,SIL OPEN FONT LICENSE Version 1.0 - 22 November 2005 PREAMBLE The goals of the Open Font License (OF...,1,"['ZPL-2.0/ZPL-2.0-24_Split_SPDX_Licenses.txt', 'SCEA/SCEA-130.txt']",True,OFL-1.0-RFN
+469,"Sun Industry Standards Source License - Version 1.1 1.0 DEFINITIONS 1.1 ""Commercial Use"" means distr...",1,[],False,SISSL
+470,Python is a popular programming language for data science....,0,[],True,
+471,"GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 Copyright (C) 1991, 1999 Free Software ...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,LGPL-2.1-only
+472,"GNU GENERAL PUBLIC LICENSE Version 1, February 1989 Copyright (C) 1989 Free Software Foundation, Inc...",1,[],False,GPL-1.0-or-later
+473,"Computational Use of Data Agreement v1.0 This is the Computational Use of Data Agreement, Version 1....",1,[],False,C-UDA-1.0
+474,Computer Associates Trusted Open Source License Version 1.1 PLEASE READ THIS DOCUMENT CAREFULLY AND ...,1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-207.txt', 'GFDL-1.2/GFDL-1.2-207_Split_SPDX_Licenses.txt', 'GFDL-1.2-only/GFDL-1.2-only-207.txt', 'GFDL-1.2/GFDL-1.2-205.txt']",True,CATOSL-1.1
+475,"Boost Software License - Version 1.0 - August 17th, 2003...",1,[],False,BSL-1.0
+476,"HTML Tidy License This software and documentation is provided ""as is,"" and the copyright holders and...",1,[],False,HTMLTIDY
+477,THE PERMISSION CONDITION ABOUT USING C/Migemo AND Migemo DLL Since: 16-Dec-2001 Version 1.0 Author: ...,1,[],False,Migemo
+478,All rights are reserved....,1,"['BSD-3-Clause-Clear/BSD-3-Clause-Clear-6.txt', 'Intel/Intel-21.txt']",True,psfrag
+479,CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL Avertissement Ce contrat est une licence de logiciel lib...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-61.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-30.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-8_Split_SPDX_Licenses.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-41.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-49.txt']",True,CECILL-1.0
+480,"Copyright 1994-2009 Sun Microsystems, Inc All Rights Reserved. Redistribution and use in source and ...",1,[],False,BSD-3-Clause-No-Nuclear-License
+481,"SGI FREE SOFTWARE LICENSE B (Version 1.1 02/22/2000) 1 Definitions. 1.1 ""Additional Notice Provision...",1,[],False,SGI-B-1.1
+482,The SFL License Agreement This license agreement covers your use of the iMatix STANDARD FUNCTION LIB...,1,[],False,iMatix
+483,MOZILLA FIREFOX END-USER SOFTWARE LICENSE AGREEMENT Version 2.0 A SOURCE CODE VERSION OF CERTAIN FIR...,1,[],False,MPL-EULA-2.0
+484,"GNU GENERAL PUBLIC LICENSE Version 1, February 1989 Copyright (C) 1989 Free Software Foundation, Inc...",1,[],False,GPL-1.0
+485,OpenLDAP is a registered trademark of the OpenLDAP Foundation....,1,"['OLDAP-2.8/OLDAP-2.8-36.txt', 'OLDAP-2.6/OLDAP-2.6-38.txt', 'OLDAP-2.1/OLDAP-2.1-47.txt']",True,OLDAP-2.7
+486,"The OpenLDAP Public License Version 1.3, 17 January 1999 Copyright 1998-1999, The OpenLDAP Foundatio...",1,['CC-BY-3.0/CC-BY-3.0-386.txt'],True,OLDAP-1.3
+487,"RSA Data Security, Inc. makes no representations concerning either the merchantability of this softw...",1,[],False,RSA-MD
+488,Creative Commons Attribution-NonCommercial 3.0 Unported CREATIVE COMMONS CORPORATION IS NOT A LAW FI...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-NC-3.0
+489,"VOSTROM Public License for Open Source Copyright (c) 2007 VOSTROM Holdings, Inc. This VOSTROM Holdin...",1,"['VIM/VIM-54.txt', 'VIM/Vim-19_Split_SPDX_Licenses.txt', 'VIM/VIM-54_Split_DB_Foss_Licenses.txt', 'Intel/Intel-8.txt', 'Intel/Intel-3_Split_SPDX_Licenses.txt']",True,VOSTROM
+490,"Copyright (c) [year] [copyright holders] The Universal Permissive License (UPL), Version 1.0 Subject...",1,[],False,UPL-1.0
+491,The package will be delivered within 3-5 business days....,0,[],True,
+492,"The Open Software License v 1.0 This Open Software License (the ""License"") applies to any original w...",1,"['OSL-2.1/OSL-2.1-123_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-85_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-79_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-152_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-178.txt']",True,OSL-1.0
+493,"1. This LICENSE AGREEMENT is between the Corporation for National Research Initiatives, having an of...",1,[],False,CNRI-Python-GPL-Compatible
+494,SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007 PREAMBLE The goals of the Open Font License (OF...,1,[],False,OFL-1.1-RFN
+495,"1 This LICENSE AGREEMENT is between the Corporation for National Research Initiatives, having an off...",1,"['MITNFA/MITNFA-4.txt', 'MITNFA/MITNFA-4_Split_SPDX_Licenses.txt']",True,CNRI-Jython
+496,Lucent Public License Version 1.02 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS PUBL...,1,[],False,LPL-1.02
+497,"GNU Free Documentation License Version 1.2, November 2002 Copyright (C) 2000,2001,2002 Free Software...",1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-365.txt', 'GFDL-1.2/GFDL-1.2-170.txt', 'GFDL-1.2/GFDL-1.2-141_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-11_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-57_Split_SPDX_Licenses.txt']",True,GFDL-1.2-no-invariants-or-later
+498,The Code Project Open License (CPOL) 1.02 Preamble This License governs Your use of the Work This Li...,1,"['OLDAP-2.6/OLDAP-2.6-27_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-6.txt', 'AAL/AAL-2.txt', 'AAL/AAL-6_Split_SPDX_Licenses.txt', 'CPL-0.5/CPL-0.5-172.txt']",True,CPOL-1.02
+499,The cat knocked over a vase while chasing a fly....,0,[],True,
+500,Creative Commons Attribution 2.5 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE...,1,[],False,CC-BY-2.5
+501,CREATIVE COMMONS IST KEINE RECHTSANWALTSKANZLEI UND LEISTET KEINE RECHTSBERATUNG DIE BEREITSTELLUNG ...,1,"['CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-234_Split_SPDX_Licenses.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-301_Split_SPDX_Licenses.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-339_Split_SPDX_Licenses.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-271_Split_SPDX_Licenses.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-236_Split_SPDX_Licenses.txt']",True,CC-BY-SA-3.0-AT
+502,"As a special exception, the copyright holders of this library give you permission to link this libra...",1,[],False,GPL-2.0+-with-classpath-exception
+503,"Bitstream License Agreement Bitstream, Inc Electronic License Agreement By using or installing this ...",1,[],False,Bitstream
+504,"Open Use of Data Agreement v1.0 This is the Open Use of Data Agreement, Version 1.0 (the ""O-UDA"") Ca...",1,[],False,O-UDA-1.0
+505,"MOTOSOTO OPEN SOURCE LICENSE - Version 0.9.1 This Motosoto Open Source License (the ""License"") appli...",1,[],False,Motosoto
+506,"""THE BEER-WARE LICENSE"" (Revision 42): <phk@FreeBSD.ORG> wrote this file...",1,[],False,Beerware
+507,You may distribute copies of qmail If you want to distribute modified versions of qmail (including p...,1,[],False,Qmail
+508,Creative Commons Attribution-ShareAlike 3.0 Unported CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM ...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-SA-3.0
+509,Skype End User License Agreement IMPORTANT \xe2\x80\x93 PLEASE READ CAREFULLY Please note the follow...,1,[],False,Skype-EULA
+510,"Software License\r\nCopyright (c) 2010, Google Inc. All rights reserved....",1,[],False,WebM
+511,The Artistic License Preamble The intent of this document is to state the conditions under which a P...,1,['BSD-3-Clause-Clear/BSD-3-Clause-Clear-11.txt'],True,Artistic-1.0-cl8
+512,The Artistic License Preamble The intent of this document is to state the conditions under which a P...,1,['BSD-3-Clause-Clear/BSD-3-Clause-Clear-11.txt'],True,Artistic-1.0
+513,Intel Open Source License Copyright (c) 1996-2000 Intel Corporation All rights reserved. Redistribut...,1,"['Intel/Intel-19.txt', 'Intel/Intel-4.txt', 'Intel/Intel-17.txt', 'Intel/Intel-6.txt', 'Intel/Intel-7.txt']",True,Intel
+514,"Unicode Terms of Use For the general privacy policy governing access to this site, see the Unicode P...",1,[],False,Unicode
+515,"Copyright 1993 Francis Borceux You may freely use, modify, and/or distribute each of the files in th...",1,[],False,Borceux
+516,"JSON License Copyright (c) 2002 JSON.org Permission is hereby granted, free of charge, to any person...",1,[],False,JSON
+517,The Clarified Artistic License Preamble The intent of this document is to state the conditions under...,1,[],False,ClArtistic
+518,"(C) 1988, 1989 by Adobe Systems Incorporated. All rights reserved....",1,[],False,Afmparse
+519,Software License for MTL Copyright (c) 2007 The Trustees of Indiana University. 2008 Dresden Univers...,1,[],False,MTLL
+520,"(B) Patent Grant- Subject to the terms of this license, including the license conditions and limitat...",1,"['CPL-0.5/CPL-0.5-52.txt', 'CPL-0.5/CPL-0.5-151.txt', 'CPL-0.5/CPL-0.5-84.txt', 'CPL-0.5/CPL-0.5-156.txt', 'CPL-0.5/CPL-0.5-11.txt']",True,MS-PL
+521,"Open Publication License v1.0, 8 June 1999 I REQUIREMENTS ON BOTH UNMODIFIED AND MODIFIED VERSIONS T...",1,"['OLDAP-2.6/OLDAP-2.6-27_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-6.txt', 'OLDAP-2.6/OLDAP-2.6-23.txt', 'OLDAP-2.6/OLDAP-2.6-6_Split_SPDX_Licenses.txt', 'AAL/AAL-2.txt']",True,Open-PL-1.0
+522,CC-BY-SA is referenced without a version number. Please look up CC-BY-SA in the License Admin to vie...,1,[],False,CC-BY-SA
+523,"This software code is made available ""AS IS"" without warranties of any kind You may copy, display, m...",1,[],False,ADSL
+524,Simple Public License (SimPL) Preamble This Simple Public License 2.0 (SimPL 2.0 for short) is a pla...,1,[],False,SimPL-2.0
+525,"A modified version of this file may be distributed, but it should be distributed with a *different* ...",1,[],False,dvipdfm
+526,This special exception was added by the Free Software Foundation in version 2.2 of Bison....,1,['GPL-3.0-with-bison-exception/GPL-3.0-with-bison-exception-8.txt'],True,Bison-exception-2.2
+527,"Except as contained in this notice, the name of The Open Group\r\nshall not be used in advertising o...",1,[],False,MIT-open-group
+528,"WordNet Release 3.0 This software and database is being provided to you, the LICENSEE, by Princeton ...",1,[],False,WordNet-3.0
+529,"GNU Free Documentation License Version 1.2, November 2002 Copyright (C) 2000,2001,2002 Free Software...",1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-365.txt', 'GFDL-1.2/GFDL-1.2-170.txt', 'GFDL-1.2/GFDL-1.2-141_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-11_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-57_Split_SPDX_Licenses.txt']",True,GFDL-1.2-no-invariants-only
+530,Norwegian Licence for Open Government Data (NLOD) Preface of licence This licence grants you the rig...,1,"['NLOD-1.0/NLOD-1.0-16.txt', 'NLOD-1.0/NLOD-1.0-64_Split_SPDX_Licenses.txt', 'NLOD-1.0/NLOD-1.0-97_Split_SPDX_Licenses.txt', 'NLOD-1.0/NLOD-1.0-85.txt', 'NLOD-1.0/NLOD-1.0-94.txt']",True,NLOD-1.0
+531,Python 2.1.3 license This is the official license for the Python 2.1.3 release: A HISTORY OF THE SOF...,1,[],False,Python-2.1.3
+532,Several clauses of the LPPL specify means to provide reliability and\r\nstability for the user commu...,1,[],False,LPPL-1.3b
+533,# PolyForm Noncommercial License 1.0.0 <https://polyformproject.org/licenses/noncommercial/1.0.0> ##...,1,[],False,PolyForm-Noncommercial-1.0.0
+534,"1.7 ""Modify"" means to delete, erase, correct or re-arrange Data, resulting in ""Modifications."" Modif...",1,[],False,CDLA-Permissive-1.0
+535,"The Open Source Definition (Annotated) Version 1.9 The indented, italicized sections below appear as...",1,[],False,OpenDefinition
+536,"Vixie License Copyright 1988,1990,1993 by Paul Vixie All rights reserved Distribute freely, except: ...",1,[],False,Vixie
+537,"BitTorrent Open Source License Version 1.1 This BitTorrent Open Source License (the ""License"") appli...",1,"['OSL-2.1/OSL-2.1-216.txt', 'OSL-2.1/OSL-2.1-216_Split_DB_Foss_Licenses.txt']",True,BitTorrent-1.1
+538,"The OpenLDAP Public License Version 2.1, 29 February 2000 Copyright 1999-2000, The OpenLDAP Foundati...",1,"['OLDAP-2.1/OLDAP-2.1-24_Split_SPDX_Licenses.txt', 'OLDAP-2.1/OLDAP-2.1-36_Split_SPDX_Licenses.txt', 'OLDAP-2.1/OLDAP-2.1-24.txt', 'OLDAP-2.1/OLDAP-2.1-6.txt', 'OLDAP-2.1/OLDAP-2.1-18.txt']",True,OLDAP-2.1
+539,Copyright (c) 1986 by University of Toronto Written by Henry Spencer Not derived from licensed softw...,1,[],False,Spencer-86
+540,### Runtime Library Exception to the Apache 2.0 License: ###...,1,[],False,Swift-exception
+541,This copy of the libpng notices is provided for your convenience In case of any discrepancy between ...,1,[],False,Libpng
+542,"Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation f...",1,[],False,Adobe-Glyph
+543,"INTERBASE PUBLIC LICENSE Version 1.0 1 Definitions. 1.0.1 ""Commercial Use"" means distribution or oth...",1,[],False,Interbase-1.0
+544,"Oracle Technology Network Developer License Terms Export Controls on the Programs Selecting the ""Acc...",1,[],False,Oracle-Dev
+545,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright \xc2\xa9 2007 Free Software Foundation,...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,GPL-3.0-only
+546,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,GFDL-1.1-or-later
+547,"\r\nTHE TERM ""SOFTWARE"" REFERS TO THIS CODE (WHETHER SOURCE OR OBJECT CODE), ANY COMPONENT OR MODULE...",1,[],False,HP
+548,"AUTOCONF CONFIGURE SCRIPT EXCEPTION Version 3.0, 18 August 2009 Copyright \xa9 2009 Free Software Fo...",1,[],False,Autoconf-exception-3.0
+549,EFL is referenced without a version number...,1,[],False,EFL
+550,"Ricoh Source Code Public License Version 1.0 1 Definitions. 1.1 ""Contributor"" means each entity that...",1,[],False,RSCPL
+551,"GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 Copyright (C) 1991, 1999 Free Software ...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,LGPL-2.1-or-later
+552,"This FastCGI application library source and object code (the ""Software"") and its documentation (the ...",1,"['OpenMarket/OpenMarket-14.txt', 'OpenMarket/OpenMarket-4.txt', 'OpenMarket/OpenMarket-1.txt', 'OpenMarket/OpenMarket-15.txt', 'OpenMarket/OpenMarket-10.txt']",True,OML
+553,CERN Open Hardware Licence Version 2 - Strongly Reciprocal Preamble CERN has developed this licence ...,1,[],False,CERN-OHL-S-2.0
+554,"Mozilla Public License Version 2.0 1 Definitions 1.1 ""Contributor"" means each individual or legal en...",1,[],False,MPL-2.0
+555,Apple Public Source License Ver 1.2 1 General; Definitions This License applies to any program or ot...,1,[],False,APSL-1.2
+556,Creative Commons Attribution 4.0 International Creative Commons Corporation (\xe2\x80\x9cCreative Co...,1,[],False,CC-BY-4.0
+557,"- any distribution of this package, whether modified or not, includes this license text....",1,[],False,EFL-2.0
+558,"Version 1.0.5 of 10 December 2007 Copyright \xc2\xa9 1996-2007 Julian Seward This program, bzip2, th...",1,[],False,bzip2-1.0.5
+559,SOLDERPAD HARDWARE LICENSE version 0.51 This license is based closely on the Apache License Version ...,1,[],False,SHL-0.51
+560,Creative Commons Attribution-NonCommercial-ShareAlike 2.0 CREATIVE COMMONS CORPORATION IS NOT A LAW ...,1,"['CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-327.txt', 'CC-BY-SA-3.0-AT/CC-BY-SA-3.0-AT-260_Split_SPDX_Licenses.txt']",True,CC-BY-NC-SA-2.0
+561,Creative Commons Attribution 3.0 United States CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DO...,1,"['CC-BY-3.0/CC-BY-3.0-216.txt', 'CC-BY-3.0/CC-BY-3.0-337_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215.txt', 'CC-BY-3.0/CC-BY-3.0-67_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt']",True,CC-BY-3.0-US
+562,The Hacktivismo Enhanced-Source Software License Agreement Everyone is permitted to copy and distrib...,1,[],False,Hacktivismo
+563,"""Freely Available"" means that you have the freedom to copy or modify the Font as well as redistribut...",1,[],False,Arphic
+564,H2 is dual licensed and available under a modified version of the MPL 1.1 (Mozilla Public License) o...,1,[],False,H2-1.0
+565,The Clear BSD License Copyright (c) [xxxx]-[xxxx] [Owner Organization] All rights reserved. Redistri...,1,"['BSD-3-Clause-Clear/BSD-3-Clause-Clear-3_Split_SPDX_Licenses.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-1.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-4.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-3.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-1_Split_SPDX_Licenses.txt']",True,BSD-3-Clause-Clear
+566,Adobe Core 35 AFM Files with 314 Glyph Entries - ReadMe...,1,[],False,AdobeAFM
+567,SIL OPEN FONT LICENSE Version 1.0 - 22 November 2005 PREAMBLE The goals of the Open Font License (OF...,1,"['ZPL-2.0/ZPL-2.0-24_Split_SPDX_Licenses.txt', 'SCEA/SCEA-130.txt']",True,OFL-1.0
+568,----------------------------------------...,1,[],False,LPPL-1.2
+569,"A contributor's ""essential patent claims"" are all patent claims owned or controlled by the contribut...",1,[],False,AGPL-3.0
+570,"<copyright notice> Permission to use, copy, modify, distribute, and sell this software and its docum...",1,"['MITNFA/MITNFA-2.txt', 'MITNFA/MITNFA-1_Split_SPDX_Licenses.txt', 'MITNFA/MITNFA-1.txt', 'MITNFA/MITNFA-2_Split_SPDX_Licenses.txt']",True,HPND-sell-variant
+571,Community Data License Agreement - Sharing - Version 1.0 This is the Community Data License Agreemen...,1,[],False,CDLA-Sharing-1.0
+572,MOZILLA FIREFOX END-USER SOFTWARE LICENSE AGREEMENT Version 1.1 A SOURCE CODE VERSION OF CERTAIN FIR...,1,[],False,MPL-EULA-1.1
+573,"Secure Messaging Protocol (SMP) Libraries [ACL, CML, SFL] Distribution Rights All source code for th...",1,[],False,SMPPL
+574,SOLDERPAD HARDWARE LICENSE VERSION 2.1 This license operates as a wraparound license to the Apache L...,1,[],False,SHL-2.1
+575,ERLANG PUBLIC LICENSE Version 1.1 1 Definitions. 1.1 ``Contributor'' means each entity that creates ...,1,[],False,ErlPL-1.1
+576,insert GPL v3+ license text here Class Path Exception Linking this library statically or dynamically...,1,[],False,GPL-3.0+-with-classpath-exception
+577,"STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER Copyright (c) 2001-2011 by The Fe...",1,[],False,SMLNJ
+578,"5. You may use the original or modified versions of the Software to compile, link and run applicatio...",1,[],False,QPL-1.0
+579,Using Information under this licence\r\n* Use of any Information indicates your acceptance of the te...,1,[],False,OGL-Canada-2.0
+580,1. All copyright & permission notices are preserved....,1,[],False,XSkat
+581,"TORQUE v2.5+ Software License v1.1 Copyright (c) 2010-2011 Adaptive Computing Enterprises, Inc All r...",1,[],False,TORQUE-1.1
+582,"SCEA Shared Source License 1.0 Terms and Conditions: 1 Definitions: ""Software"" shall mean the softwa...",1,"['SCEA/SCEA-61.txt', 'SCEA/SCEA-26_Split_SPDX_Licenses.txt', 'SCEA/SCEA-101.txt', 'SCEA/SCEA-40.txt', 'SCEA/SCEA-108_Split_SPDX_Licenses.txt']",True,SCEA
+583,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,Void
+584,Software classified as freeware is licensed at no cost and is either fully functional for an unlimit...,1,[],False,Freeware
+585,"OASIS License The software as described above and called ""OASIS"" is filed under no IDDN.FR.001.13001...",1,"['OASIS/OASIS-14.txt', 'OASIS/OASIS-29.txt', 'OASIS/OASIS-18.txt', 'OASIS/OASIS-10.txt', 'OASIS/OASIS-7.txt']",True,OASIS
+586,LICENSE AGREEMENT RED HAT\xc2\xae ENTERPRISE LINUX\xc2\xae AND RED HAT\xc2\xae APPLICATIONS This end...,1,[],False,RedHat-EULA
+587,"Imlib2 License Permission is hereby granted, free of charge, to any person obtaining a copy of this ...",1,"['Imlib2/Imlib2-3.txt', 'Imlib2/Imlib2-12.txt', 'Imlib2/Imlib2-3_Split_SPDX_Licenses.txt', 'Imlib2/Imlib2-1_Split_SPDX_Licenses.txt', 'Imlib2/Imlib2-13_Split_SPDX_Licenses.txt']",True,Imlib2
+588,"Copyright (c) 2002-2007 Charlie Poole Copyright (c) 2002-2004 James W Newkirk, Michael C Two, Alexei...",1,[],False,zlib-acknowledgement
+589,1 Grant of License...,1,"['OSL-2.1/OSL-2.1-212.txt', 'OSL-2.1/OSL-2.1-212_Split_DB_Foss_Licenses.txt']",True,Pixware-EULA
+590,"Redistribution and use in source and binary forms, with or without modification, are permitted provi...",1,"['ZPL-2.1/ZPL-21-33.txt', 'ZPL-2.1/ZPL-2.1-26.txt', 'ZPL-2.0/ZPL-2.0-39.txt', 'ZPL-2.0/ZPL-20-33.txt']",True,BSD-3-Clause-Attribution
+591,The novel was set in 19th-century London and Paris....,0,[],True,
+592,"Copyright (c) 2000-2002 Japan Network Information Center All rights reserved. By using this file, yo...",1,[],False,JPNIC
+593,"Copyright (c) <year> <owner> All rights reserved. Redistribution and use in source and binary forms,...",1,['OLDAP-2.8/OLDAP-2.8-30.txt'],True,BSD-4-Clause
+594,"Unicode Terms of Use For the general privacy policy governing access to this site, see the Unicode P...",1,[],False,Unicode-TOU
+595,Copyright (C) 2001 Leptonica...,1,[],False,Leptonica
+596,The Parity Public License 6.0.0 Contributor: contributor name Source Code: source This license lets ...,1,[],False,Parity-6.0.0
+597,Info-ZIP License Copyright (c) 1990-2009 Info-ZIP All rights reserved. For the purposes of this copy...,1,"['info-zip/info-zip-20.txt', 'info-zip/Info-ZIP-20_Split_SPDX_Licenses.txt', 'info-zip/info-zip-5.txt', 'info-zip/Info-ZIP-4_Split_SPDX_Licenses.txt', 'info-zip/info-zip-17.txt']",True,info-zip
+598,"GNU Free Documentation License Version 1.1, March 2000 Copyright (C) 2000 Free Software Foundation, ...",1,"['GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-7.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-190.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-40.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-110.txt', 'GFDL-1.1-no-invariants-or-later/GFDL-1.1-no-invariants-or-later-270.txt']",True,GFDL-1.1
+599,"UNICODE, INC LICENSE AGREEMENT - DATA FILES AND SOFTWARE Unicode Data Files include all data files u...",1,[],False,Unicode-DFS-2015
+600,"Can not find license text for Open-PL-0.4, please refer to Open-PL-1.0...",1,[],False,Open-PL-0.4
+601,"GNU Free Documentation License Version 1.2, November 2002 Copyright (C) 2000,2001,2002 Free Software...",1,"['GFDL-1.2-invariants-or-later/GFDL-1.2-invariants-or-later-365.txt', 'GFDL-1.2/GFDL-1.2-170.txt', 'GFDL-1.2/GFDL-1.2-141_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-11_Split_SPDX_Licenses.txt', 'GFDL-1.2/GFDL-1.2-57_Split_SPDX_Licenses.txt']",True,GFDL-1.2-invariants-only
+602,"Open Software License v 2.0 This Open Software License (the ""License"") applies to any original work ...",1,"['OSL-2.1/OSL-2.1-123_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-85_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-79_Split_DB_Foss_Licenses.txt', 'OSL-2.1/OSL-2.1-152_Split_SPDX_Licenses.txt', 'OSL-2.1/OSL-2.1-178.txt']",True,OSL-2.0
+603,...,1,"['LiLiQ-P-1.1/LiLiQ-P-1.1-109.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-78.txt', 'ZoneAlarm-EULA/ZoneAlarm-EULA-510.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-83.txt', 'LiLiQ-P-1.1/LiLiQ-P-1.1-87.txt']",True,LiLiQ-P-1.1
+604,"Attribution Assurance License Copyright (c) 2002 by AUTHOR PROFESSIONAL IDENTIFICATION * URL ""PROMOT...",1,"['AAL/AAL-9.txt', 'AAL/AAL-11_Split_SPDX_Licenses.txt', 'AAL/AAL-4_Split_SPDX_Licenses.txt', 'AAL/AAL-9_Split_SPDX_Licenses.txt', 'AAL/AAL-3_Split_SPDX_Licenses.txt']",True,AAL
+605,"The ""Artistic License"" Preamble The intent of this document is to state the conditions under which a...",1,['BSD-3-Clause-Clear/BSD-3-Clause-Clear-11.txt'],True,Artistic-1.0-Perl
+606,"Cube game engine source code, 20 dec 2003 release Copyright (C) 2001-2003 Wouter van Oortmerssen. Th...",1,[],False,Cube
+607,"THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLI...",1,"['ZPL-2.1/ZPL-2.1-32.txt', 'Intel/Intel-26.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-11.txt', 'ZPL-2.1/ZPL-21-39.txt', 'AAL/AAL-26.txt']",True,CMake
+608,/* ==================================================================== * The Phorum License 2.0. * ...,1,[],False,Phorum-2.0
+609,## No Liability...,1,['Parity-7.0.0/Parity-7.0.0-71.txt'],True,PolyForm-Small-Business-1.0.0
+610,Copyright (c) <year> <owner> All rights reserved....,1,[],False,BSD-1-Clause
+611,Creative Commons Attribution-ShareAlike 1.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES ...,1,[],False,CC-BY-SA-1.0
+612,Biology explores the diversity of life on Earth....,0,[],True,
+613,"The OpenLDAP Public License Version 1.2, 1 September 1998 Copyright 1998, The OpenLDAP Foundation Al...",1,['CC-BY-3.0/CC-BY-3.0-386.txt'],True,OLDAP-1.2
+614,Creative Commons Attribution-NonCommercial 2.5 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DO...,1,[],False,CC-BY-NC-2.5
+615,Copyright (C) 1995 by Donald Arseneau...,1,['libtiff/libtiff-1.txt'],True,Dotseqn
+616,"The Zimbra Public License Version 1.2 (""ZPL"") consists of the Mozilla Public License Version 1.1, mo...",1,[],False,Zimbra-1.2
+617,"GNU LESSER GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundatio...",1,[],False,LGPL-3.0-or-later
+618,"""This product includes software developed by the University of California, Lawrence Berkeley Laborat...",1,[],False,BSD-4-Clause-Shortened
+619,LICENCE OUVERTE / OPEN LICENCE =================================================================== -...,1,[],False,etalab-2.0
+620,"The X.Net, Inc License Copyright (c) 2000-2001 X.Net, Inc Lafayette, California, USA Permission is h...",1,[],False,Xnet
+621,"The OpenLDAP Public License Version 2.0.1, 21 December 1999 Copyright 1999, The OpenLDAP Foundation,...",1,"['OLDAP-2.1/OLDAP-2.1-13_Split_SPDX_Licenses.txt', 'OLDAP-2.1/OLDAP-2.1-37.txt', 'OLDAP-2.1/OLDAP-2.1-27_Split_SPDX_Licenses.txt', 'OLDAP-2.1/OLDAP-2.1-33.txt', 'OLDAP-2.1/OLDAP-2.1-3_Split_SPDX_Licenses.txt']",True,OLDAP-2.0.1
+622,This Program is free software; you can redistribute it and/or modify it under the terms of the GNU G...,1,[],False,389-exception
+623,"PostgreSQL Database Management System\r\n(formerly known as Postgres, then as Postgres95)...",1,"['PostgreSQL/PostgreSQL-3_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-3.txt']",True,PostgreSQL
+624,"The person or persons who have associated work with this document (the ""Dedicator"" or ""Certifier"") h...",1,[],False,CC-PDDC
+625,"SENDMAIL LICENSE The following license terms and conditions apply, unless a redistribution agreement...",1,[],False,Sendmail-8.23
+626,"GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 Copyright (C) 1991, 1999 Free Software ...",1,"['GPL-3.0-only/GPL-3.0-only-87.txt', 'GPL-3.0-only/GPL-3.0-only-317.txt', 'GPL-3.0-only/GPL-3.0-only-262.txt', 'GPL-3.0-only/GPL-3.0-only-375.txt', 'GPL-3.0-only/GPL-3.0-only-216.txt']",True,LGPL-2.1
+627,"/*-\r\n * Copyright (c) 2008 The NetBSD Foundation, Inc.\r\n * All rights reserved.\r\n *\r\n * This...",1,[],False,NewBSD
+628,"The Universal FOSS Exception, Version 1.0 In addition to the rights set forth in the other license(s...",1,[],False,Universal-FOSS-exception-1.0
+629,insert GPL v3 text here...,1,['GPL-3.0-with-bison-exception/GPL-3.0-with-bison-exception-5.txt'],True,GPL-3.0-with-bison-exception
+630,"Qwt License Version 1.0, January 1, 2003 The Qwt library and included programs are provided under th...",1,[],False,Qwt-exception-1.0
+631,Creative Commons Attribution 1.0 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE...,1,[],False,CC-BY-1.0
+632,"Red Hat eCos Public License v1.1 1 DEFINITIONS 1.1 ""Contributor"" means each entity that creates or c...",1,[],False,RHeCos-1.1
+633,"insert GPL v2 license text here Font Exception As a special exception, if you create a document whic...",1,[],False,GPL-2.0-with-font-exception
+634,"Copyright \xc2\xa9 2002-2004 James W Newkirk, Michael C Two, Alexei A Vorontsov, Charlie Poole Copyr...",1,"['GFDL-1.3/GFDL-1.3-457.txt', 'GFDL-1.2/GFDL-1.2-427.txt']",True,Nunit
+635,The full text of this NOTICE in a location viewable to users of the redistributed or derivative work...,1,['W3C/W3C-21.txt'],True,W3C
+636,"Redistribution and use in source and binary forms, with or without\r\nmodification, are permitted pr...",1,[],False,HSQLDB
+637,"""Covered License"" means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Pu...",1,[],False,GPL-CC-1.0
+638,1...,1,[],False,diffmark
+639,"Copyright (c) 2003, The Regents of the University of California, through Lawrence Berkeley National ...",1,[],False,BSD-3-Clause-LBNL
+640,PNG Reference Library License version 2 --------------------------------------- * Copyright (c) 1995...,1,['WashU/WashU-8.txt'],True,libpng-2.0
+641,Copyright (C) 2006 by Rob Landley <rob@landley.net>...,1,[],False,0BSD
+642,"Redistribution and use in source and binary forms, with or without modification, are permitted provi...",1,"['ZPL-2.0/ZPL-20-32.txt', 'ZPL-2.0/ZPL-2.0-38.txt', 'ZPL-2.1/ZPL-2.1-25.txt', 'ZPL-2.1/ZPL-21-32.txt', 'Intel/Intel-22.txt']",True,Caldera
+643,Academic Free License Version 1.2 This Academic Free License applies to any original work of authors...,1,[],False,AFL-1.2
+644,CECILL is referenced without a version number. Please look up CECILL in the License Admin to view th...,1,[],False,CECILL
+645,"As a special exception to the GNU General Public License, if you distribute this file as part of a p...",1,[],False,Libtool-exception
+646,"THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NO...",1,[],False,SGI-B-2.0
+647,"insert GPL v2 license text here Autoconf Exception As a special exception, the Free Software Foundat...",1,[],False,GPL-2.0-with-autoconf-exception
+648,"By obtaining, using, and/or copying this software and/or its associated documentation, you agree tha...",1,[],False,MIT-CMU
+649,"\t\xe2\x80\xa2\tPortions copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004 ...",1,[],False,GD
+650,"As an exception, if, as a result of your compiling your source code, portions of this Software are e...",1,"['WashU/WashU-5.txt', 'WashU/WashU-3.txt', 'BSD-3-Clause-Clear/BSD-3-Clause-Clear-11.txt', 'PostgreSQL/PostgreSQL-2_Split_SPDX_Licenses.txt', 'PostgreSQL/PostgreSQL-1.txt']",True,LLVM-exception
+651,"Source Code License Copyright (c) 2009, Washington University in St Louis Redistribution and use in ...",1,"['WashU/WashU-7.txt', 'WashU/WashU-1.txt', 'WashU/WashU-4.txt', 'WashU/WashU-6.txt', 'WashU/WashU-2.txt']",True,WashU
+652,"The OpenLDAP Public License Version 2.4, 8 December 2000 Redistribution and use of this software and...",1,"['OLDAP-2.6/OLDAP-2.6-2.txt', 'OLDAP-2.6/OLDAP-2.6-4_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-21.txt', 'OLDAP-2.6/OLDAP-2.6-9_Split_SPDX_Licenses.txt', 'OLDAP-2.8/OLDAP-2.8-7_Split_SPDX_Licenses.txt']",True,OLDAP-2.4
+653,Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported CREATIVE COMMONS CORPORATION IS NOT...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-NC-ND-3.0
+654,"REALNETWORKS, INC. REAL LICENSING PROGRAM LICENSE SUPPLEMENT REDISTRIBUTION NOT PERMITTED IMPORTANT:...",1,"['RealNetworks-EULA/RealNetworks-EULA-41.txt', 'RealNetworks-EULA/RealNetworks-EULA-5.txt', 'RealNetworks-EULA/RealNetworks-EULA-57.txt', 'RealNetworks-EULA/RealNetworks-EULA-84.txt', 'RealNetworks-EULA/RealNetworks-EULA-46.txt']",True,RealNetworks-EULA
+655,METRO LINK PUBLIC LICENSE MOTIF GRAPHICAL USER INTERFACE SOFTWARE Version 1.00 THE ACCOMPANYING PROG...,1,[],False,MetroLink-1.0
+656,May you find forgiveness for yourself and forgive others....,1,[],False,blessing
+657,GPL is referenced without a version number. Please look up GPL in the License Admin to view the diff...,1,[],False,GPL
+658,"Redistribution and use in source and binary forms, with or without modification, are permitted provi...",1,['OLDAP-2.6/OLDAP-2.6-33.txt'],True,BSD-3-Clause-Open-MPI
+659,"copyleft-next 0.3.0 (""this License"") Release date: 2013-05-16 1 License Grants; No Trademark License...",1,[],False,copyleft-next-0.3.0
+660,He set up a local server for the development team....,0,[],True,
+661,"Eiffel Forum License, version 1 Permission is hereby granted to use, copy, modify and/or distribute ...",1,[],False,EFL-1.0
+662,"Creative Commons Attribution-ShareAlike 4.0 International Creative Commons Corporation (""Creative Co...",1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-SA-4.0
+663,5. You may charge a reasonable copying fee for any distribution of this Package. You may charge any ...,1,[],False,OLDAP-1.1
+664,"Igor Pavlov and Amir Szekely, the authors of the LZMA compression module for NSIS, expressly permit ...",1,[],False,LZMA-exception
+665,"OpenContent License (OPL) Version 1.0, July 14, 1998 This document outlines the principles underlyin...",1,[],False,OPL
+666,Creative Commons Attribution-NoDerivs 2.5 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NO...,1,"['CC-BY-3.0/CC-BY-3.0-361_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-318.txt', 'CC-BY-3.0/CC-BY-3.0-225.txt', 'CC-BY-3.0/CC-BY-3.0-211_Split_SPDX_Licenses.txt', 'CC-BY-3.0/CC-BY-3.0-215_Split_SPDX_Licenses.txt']",True,CC-BY-ND-2.5
+667,NTP License (NTP) Copyright (c) (CopyrightHoldersName) (From 4-digit-year)-(To 4-digit-year) Permiss...,1,[],False,NTP
+668,Creative Commons Attribution-NonCommercial-ShareAlike 1.0 CREATIVE COMMONS CORPORATION IS NOT A LAW ...,1,[],False,CC-BY-NC-SA-1.0
+669,"Common Documentation License Version 1.0 - February 16, 2001 Copyright \xc2\xa9 2001 Apple Computer,...",1,[],False,CDL-1.0
+670,Sybase Open Watcom Public License version 1.0 USE OF THE SYBASE OPEN WATCOM SOFTWARE DESCRIBED BELOW...,1,[],False,Watcom-1.0
+671,Open CASCADE Technology Public License License version: 6.6 April 2013 Open CASCADE S.A.S releases a...,1,[],False,OCCT
+672,8. Indemnification...,1,[],False,Wintertree
+673,"The OpenLDAP Public License Version 2.5, 11 May 2001 Redistribution and use of this software and ass...",1,"['OLDAP-2.6/OLDAP-2.6-27_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-6.txt', 'OLDAP-2.6/OLDAP-2.6-27.txt', 'OLDAP-2.6/OLDAP-2.6-3_Split_SPDX_Licenses.txt', 'OLDAP-2.6/OLDAP-2.6-25.txt']",True,OLDAP-2.5

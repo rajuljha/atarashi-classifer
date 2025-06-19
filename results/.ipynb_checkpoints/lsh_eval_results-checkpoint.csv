@@ -1,0 +1,21 @@
+shingle_type,shingle_size,num_perm,lsh_threshold,top_k,build_time,query_time,num_matches,top_score,query,label
+char,5,64,0.3,5,19.67,0.0,1,0.0781,"Redistribution and use in source and binary forms, with or without modification, are permitted provi",1
+char,5,64,0.3,5,19.6,0.0,0,0.0,"Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in ",1
+char,5,64,0.3,5,19.59,0.0,1,0.0625,"Permission is hereby granted, free of charge, to any person obtaining a copy of this software and as",1
+char,5,64,0.3,5,19.67,0.0,1,0.4062,"This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.",1
+char,5,64,0.3,5,19.53,0.0,0,0.0,"You may copy, modify, and distribute this file under the terms of the GNU General Public License.",1
+char,5,64,0.3,5,19.83,0.0,0,0.0,"The software is provided 'AS IS', without warranty of any kind, express or implied.",1
+char,5,64,0.3,5,19.96,0.0,1,0.25,"Subject to the terms and conditions of this Agreement, each Contributor hereby grants you a perpetua",1
+char,5,64,0.3,5,19.74,0.0,2,0.1562,All rights reserved. Redistribution and use in source and binary forms are permitted.,1
+char,5,64,0.3,5,19.62,0.0,0,0.0,This software is provided by the author 'as is' and any express or implied warranties are disclaimed,1
+char,5,64,0.3,5,19.6,0.0,0,0.0,This file is dual licensed under the MIT and GPLv2 licenses.,1
+char,5,64,0.3,5,19.55,0.0,0,0.0,The quick brown fox jumps over the lazy dog.,0
+char,5,64,0.3,5,19.59,0.0,0,0.0,This function loads a configuration file and parses its contents into a dictionary.,0
+char,5,64,0.3,5,19.55,0.0,0,0.0,Welcome to our internal documentation wiki. Please follow the guidelines.,0
+char,5,64,0.3,5,19.7,0.0,0,0.0,The purpose of this module is to perform matrix inversion using LU decomposition.,0
+char,5,64,0.3,5,19.5,0.0,0,0.0,Add your API key in the environment file before running the application.,0
+char,5,64,0.3,5,19.72,0.0,0,0.0,Usage: python script.py --input file.txt --output result.txt,0
+char,5,64,0.3,5,19.8,0.0,0,0.0,"To install dependencies, run 'pip install -r requirements.txt'",0
+char,5,64,0.3,5,19.6,0.0,0,0.0,This is a placeholder text file for testing output generation.,0
+char,5,64,0.3,5,19.56,0.0,0,0.0,List all supported commands using the --help flag.,0
+char,5,64,0.3,5,19.66,0.0,0,0.0,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",0
